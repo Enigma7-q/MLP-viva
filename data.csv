@@ -1,0 +1,2681 @@
+Timestamp,"Your Name (if you want, you can share)",Viva Date,Viva Proctor ID (the id which was sent to you in email for viva),Questions asked by the Viva examiner (Write in points),Any suggestions/tips to fellow students for this examiner?
+11/12/2024 0:10:04,,11/11/2024,L1_118,"1. Directly asked to start presenting the notebook
+2. What feature engineering was used
+3. Which correlation were used for the features
+4. What scaling was used and why (Why use StandardScaler?) ","Sounds like the sweetest guy ever- Very comfortable and patient. Didn't ask any outside questions, only asked to clarify a few things that I had already explained in the notebook. Finished right on time."
+11/13/2024 11:55:52,Shreyan,11/12/2024,LEVEL2_106,"Assuming you have gone through previous experiences people had with this proctor, its the same for me, I explained my notebook for 40 min and hence 0 questions asked.
+",Just do everything possible and explain well
+11/16/2024 10:57:24,Rajyalakshmi,11/12/2024,Level3_9,"1. Data Preprocessing and its need.
+2. Overfitting and Underfitting with example. How can we avoid them?
+3. Hyperparameter tuning and its need. Difference b/w GridSearchCV and RandomizedSearchCV.
+4. What model will suit best for preidcting House prices?
+5. Need for scaling. Different scaling techniques.
+6. How does dimensionality reduction work? Will it discard any data points? What is PCA?
+7. Explain what you have done in the notebook.
+8. What is your best model? Why did it perform better than other models?",You won't get any direct/indirect feedback on how you are answering from the examiner's facial expression or body language. Be confident and continue. No deep mathematical/conceptual questions.
+11/17/2024 15:49:31,,11/17/2024,Level2_106,Asked abstract questions about the data. Didn't ask any technical questions. Asked questions about college life. ,"Super chill. Understand what you've done and why. Understand the significance of each model you've used, and what others you could have used"
+11/17/2024 22:23:23,Rahul Sharma,11/17/2024,level2_71,"1. You should know every single word about your notebook
+2. She might ask why used this and not this?? {for example why onehot and not label encode}
+3. All the models you have defined, you should know every hyperparameter reason too. {for example why used logloss as evalmetric or why used a certain threshold value}
+4. for preprocessing the question were similar to other's responses
+
+That was it for me!","All the questions were from the notebook and you know should have a good knowledge of preprocessing theory and your models. that's it and also dont just follow what you see here in the form, also learn more and more! because the proctor is abstract!!"
+11/22/2024 11:31:00,,11/22/2024,level1_viva_117,1. what is solver,format notebook well they only view your notebook is well formated or not.
+11/22/2024 13:11:55,Anonymous ,11/22/2024,level1_viva8,"1) No Theoretical Questions asked, I just explained the things I did in the Notebook and that's it.
+2) At the end he gave some suggestions.","Be prepared with what you have done in Kaggle Notebook as you have to show and explain it within 20-25 minutes.
+Focus on EDA, and Model Comparison "
+11/22/2024 21:51:32,Kavya Chouhan,11/22/2024,mlp_level1_viva3,"1. Straight away asked to show eda, feature engineering, feature scaling, handling missing values, pipelines
+
+2. Then asked theoretical questions  like the difference between bagging and boosting, what is F1 score,  etc
+
+3. Didn't asked to explain the notebook and completed it in 10 min",examiner is straight forward. learn the theory well even for level 1 vivas
+11/26/2024 18:26:37,Ananya ,11/26/2024,lvl2_72,"Done in 20 mins
+He can ask questions from anywhere,there isn't a set pattern to what he'll ask
+Asks a lot of conceptual questions,isn't interested in you writing code live
+While explaining my notebook I gave brief definitions about the scaling/imputation methods and the model parameters myself so he didn't ask much on that
+1)Theory about the models I'd used
+2)What is  stratify and why you used it
+3)How can you find correlation between categorical data 
+4)How can you find if a model is biased or not
+5)Precision,Recall,F1 score
+6)Gave suggestions on how I can further improve my model and apply it somewhere else
+","
+The examiner is very supportive, gives you every chance to explain yourself,kind of discussed the problem with you and explains you wherever you lag
+Make sure your basics are very strong"
+11/27/2024 11:38:44,Anonymous ,11/27/2024,level2_103,"Level2_103 proctor experience 
+1) Nice person
+2) Ask for an Introduction 
+3) Then present the Kaggle project for 15-20mins.
+4) Gave Coding question on RFE - 20mins
+5) Asked what a decision tree is.
+6) Compare KMeans Clustering and KNN.
+
+done in 50mins",Be comfortable with coding
+11/27/2024 17:02:53,Vaishnavi Srivastava,11/27/2024,level2_81,"i explained my notebook for 20 mins
+he didn't ask a single question
+he just spotted my mistakes, 2 of them and said I did good work over all
+viva duration - 30 mins",know you notebook well and you should know why you have implemeted a specific thing
+11/28/2024 12:40:44,,11/23/2024,mlp_level1_viva7_MLP_Viva,Asked to just go through the notebook and gave suggestions in the end to improve score,
+11/28/2024 14:09:15,Soham,11/24/2024,106,"Ways to handle data imbalance.
+Since data is skewed and imbalanced what steps have you taken?
+Is there a real way of get rid of the bias by the imbalance.","Explain full notebook clearly, he only asked 3 questions from me.
+Mostly asks from logical standpoint."
+11/28/2024 23:17:21,Aditi,11/26/2024,level2_107 ,"1. what is the use of correlation matrix
+2. what did you do to address imbalance in the data
+3. what is k fold cross validation
+4. did you drop any columns or features from the dataset, why or why not
+5. what is the definition/meaning of precision and recall
+6. in classification report, what is the column called ""support"", what is macro avg and weighted avg
+7. coding question was the same as what others have written above (MNIST one using pipeline, SVM classifier etc).
+8. what is ""degree"" parameter in SVC
+9. what is ""C"" parameter in SVC
+10. how does a SVM classifier work
+11. what is activation function
+12. what are neural networks",be thorough with theory of how the models work and their parameters. learn the code for the MNIST question because he seems to ask the same one to most students
+11/29/2024 18:42:52,Aaradhya Kulkarni,11/29/2024, level2_72,Why did you plot ROC Curve if you are already plotting f1-scores.,"Polite proctor. Just explain whatever you thought when coding your notebook (or your AI assistant thought). Walk him through the notebook slowly building a narrative. 
+He will suggest you improvements. He does not have any pre-decided questionnaire, he will ask you from your notebook only. "
+12/1/2024 23:41:17,Kavya Chouhan,11/27/2024,proctor level2_122 ,"Proctor delayed the session to one hour due to some emergency
+
+But he was very friendly. Asked for the small introduction, asked why do you want to do this course, what are you doing to improve your skills.
+
+Then I was explaining to him my project deeply. He Was listening without any interruption. Then asking questions based on my implementations only. He gave some useful tips to increase the scores further.",
+12/7/2024 22:46:54,,12/7/2024,mlp_level1_viva3@study.iitm.ac.in,"all theoretical based on notebook
+
+and general query about models, preprocessing",
+12/8/2024 9:53:00,,12/8/2024,level1_viva4,"First asked me to explain the notebook
+Then asked questions based on whatever I have implemented such as 
+- Difference between standard scaling and robust scaling
+- What is One Hot Encoder and what does handle_unknown= false mean
+- What is Smote
+Basically only asked about what I had implemented in the notebook
+",Just know what you have done in the notebook and why
+12/8/2024 11:23:02,,12/8/2024,mlp_level1_viva14,"level1_viva14
+
+very chill
+listened quietly for 10 mins to my presentation
+then asked a few questions on the 'cv' parameter of randomized search cv, some preprocessing and overfitting underfitting
+
+then gave some suggestions for level 2 like revise theory, include classification reports, and prepare coding well.
+
+overall went great","Explain the notebook well
+know what is cross validation
+overfitting underfitting
+and f1 scores"
+12/8/2024 21:25:45,Sanjay ,12/8/2024,Level 1 viva 4,Ask to explain the code and I explained it then asked questions from selector and scaler,Be through on your code
+12/9/2024 15:00:15,Hehe,12/9/2024,Level 1_116," at first he asked me to introduce yourself after that 
+He didn't ask any questions just wanted me to show each part and explain the notebook",
+12/9/2024 15:21:53,,12/9/2024,L1 viva5,Want to see feature engineering ,Best of luck for l2
+12/9/2024 22:15:15,,12/9/2024,level1_118,"Timing- 9:30-10pm, No questions asked. Only told to present the notebook. He was patiently listening and noting down wherever he found some discrepancies and suggested me to change/add at the end. Ask questions to him how u can improve the score, etc.","Do good EDA (plot graphs, visualisation), add insights/findings/understandings after each section, give model predictions analysis at the end."
+12/9/2024 22:24:40,Forest Joddd,12/9/2024,level1_viva24,"1. Go through explaining your entire notebook. {15-20mins}
+2. How does Logistic Regression works? {30secs}
+3. What is One-Hot-Encoding? Give an example. {30 secs}
+4. Is Hyperparameter Tuning and Pipelining present or not. {5secs}
+
+Good Luck for your Viva-2!! {15secs}",Broskiii Feel {Bhai Hai Bantai!}
+12/9/2024 23:02:44,"Hello, Forest Joddd here please edit the viva proctor ID, I just submitted through this form... It's level1_viva7 and not level1_viva24.",12/9/2024,level1_viva7,N/A,N/A
+12/11/2024 12:27:36,Aarush ,12/11/2024,Level2_81,"Question asked on feature engineering 
+Why this preprocessing was done 
+Why not any other things used 
+Just explain ur question 
+No technical questions 
+Overall a good supportive proctor ","Just make sure u do this project as office one not just a project 
+Cause his question are like u were a task given in office as an employ "
+12/11/2024 14:33:40,SUVRAT SURANA,12/10/2024,Leve1_110,"Level 2 viva:
+Just be extremely clear with your notebook.
+Should be able to explain each and every word and command and the logic mathematics behind it. ",
+12/11/2024 20:04:02,,12/11/2024,level2_106_MLP_viva,no questions asked,"you should know everything you have done in the notebook and why you have done it.
+
+explain the notebook soo well that he dosen't need to ask questions.
+
+take your time, go slow"
+12/12/2024 17:34:11,Forest Joddd again joining you!,12/12/2024,level2_72,"Present THE notebook! {20mins}
+Show me THE Train_Test_Split! {2mins}
+Recommendation on Comparison of Models! {3mins}
+
+Thank you! {10secs}",Joddd like me 100%
+12/12/2024 23:04:00,,12/12/2024,level3_9,"All questions he asked are mentioned already in the sheet, some more questions:
+1. what is 'support' in classification report
+2. what do u infer from correlation matrix
+3. what is random state=42, why 42?
+4. why is learning rate= 0.01, 0.1, 0.2 and not 1, 2, 3","be thorough with your notebook, he can ask anything he wants. he will first start by asking some questions then he will jump to notebook and then end with some more questions from the notebook. no coding questions asked. be confident and say as much u can. My viva was of max 30 mins."
+12/13/2024 18:03:24,,12/13/2024,level2_107_MLP_Viva,"1) null value handling techniques
+2. Imbalance handling methods
+3 why try these many different models
+4 info gain relation to entropy
+5 decision tree building process
+6 why did you use x learn rate for lgbm
+7 on mnist data,use pipeline with stdscale, svm with given params print classification report, then also use pca with svm see the score difference
+8 activation functions names, tanh function input output",Concept based questions 
+12/13/2024 19:09:47,Adarshom Panigrahi,12/13/2024,level2_81,"No question asked. I explained my code to the dot. I explained all the code and concept behind it, Like if using XGBoost what is concept behind it etc. Explanation lasted 40 mins. Just suggested me that instead of simply using mode to fill null values for categorical try other methods.","Just be thorough with your entire code. If you explain every bit of your code without fail, proctor wouldn't ask much."
+12/13/2024 20:37:17,,12/13/2024,level2_106,"i explained my notebook in as much depth as possible which took a great chunk of time 
+in the end he asked me about how many models have i tried and how many have i hyperparameter tuned (my ans was 5)
+feedback was that 'your explanation was really nice, i dont have any further questions'",ensure that your notebook is detailed and take a significant amount of time in explaining it
+12/13/2024 20:40:23,,12/10/2024,level1_118,"only asked me to go through my notebook, pointed a few mistakes and gave a few suggestions",focus on your notebook presentation
+12/13/2024 20:43:45,,12/13/2024,level2_106,"notebook explanation was in depth...he was satisfied with the explanation and didnt ask me any further questions, (the only question was how many models have u tried and how many did u hyperparameter tune)",
+12/13/2024 20:49:39,,12/10/2024,level1_118,"only notebook explanation was done...pointed a few errors, gave a few suggestions...no questions asked",focus on your notebook
+12/14/2024 0:05:35,hameed,12/13/2024,level2_122,https://docs.google.com/document/d/1EAXhbpGIaLQT7dQG0F2XslFlAKtUO_Si_yFUQ8VtcbM/edit?usp=sharing,"he is friendly, you can ask him anything you want to ask, viva will be focused on real world scenarios. self introduction will happen be prepared to answer personal questions "
+12/15/2024 13:07:34,Ayush Verma,12/14/2024,level3_36,"What is the problem statement?
+Explain your notebook
+Correlation Matrix uses
+Precision, Recall, F1 score etc.
+Encoding- Why you didn't used better encoders?( I used label encoder)
+Explain Hyperparameters used 
+Logistic regression
+SVM, kernel and types of Kernel
+KNN, 
+WHY KNN is called lazy learner?
+
+Bagging/Boosting
+Why did you use Random forest?
+What are feature selection techniques?
+Roc_auc, Why you didn't used Puc_auc for scoring?
+","Decent guy,
+I just said no, straight to him if I didn't knew something 
+
+He suggested that you don't know something say that 
+you will learn it/can't recall it.
+"
+12/15/2024 13:27:49,Jay thadeshwar,12/14/2024,Level3_46,"Asked me to present my notebook. 
+After presentation he asked some questions from my notebook:
+What have you done with outliers? 
+Is removing outliers is good practice or can we do something with it? . And he provided his insights that removing is not always good practice it may have information. 
+Asked about Colinearity... If two column is highly corelated what should we do? 
+Bagging boosting and how it works. 
+Decision tree and how it works. 
+What is entropy ? 
+Why bagging and boosting is better than decision tree? 
+Different metrics and its formula. 
+Why accuracy is not good metric? 
+In dataset about diabetes which metric is good choice? 
+How Logistic regression and knn works ? 
+
+He is very nice and nurturing guy.. Provided his insight wherever 
+",Prepare your notebook. Most of question will be from you notebook. How and why you have done this. 
+12/16/2024 13:39:02,Ishika Sachdev,12/15/2024,level3_9,"1. All questions those are mentioned in this sheet for this proctor.
+2. Full form of roc-auc and its interpretation.",Be patient while answering he asks only conceptual questions.
+12/17/2024 16:23:16,Khushi,12/12/2024,Level2_72,"Classification report related what is precision, accuracy,f1 score etc etc","Just have indepth knowledge of whatever you've used in your notebook, viva was chill and easy and the proctor was super nice."
+2/20/2025 19:11:08,,2/15/2025,leve2_74,"L1 viva:
+Proctor asked me to give an intro about me.. then said the flow of viva
+Flow:
+Explain the problem statement
+Start from starting of your notebook
+Explain till the end
+
+In between he asked small questions like what is learning rate, explain wrt overfit underfit
+
+Then he asked me to code 2 things
+Create a dummy pipeline and add it to column transformer
+Use different scaling method and a different strategy in impute method
+
+
+He gave suggestions to plot confusion matrix and classification report
+
+
+Result: 10/10
+
+
+L2 Viva:
+Proctor straight away asked theoretical questions about
+What is data preprocessing, EDA, Feature Engineering, Hyperparameter tuning.. 
+Then he asked me to share the notebook and explain
+I did.. he asked basic questions.. see all questions from Gform..
+
+All depends on how well u speak about questions he asks.. I just answered everything confidently he didn't ask any added question to the current question..
+Simple only both Viva are.. Just prepare gform questions before viva..
+
+Result: 
+Notebook : 10/10
+Viva Marks: 47/50
+Viva  Feedback: Fundamentals are strong. Looks quite confident ",Just read this gform responses
+2/25/2025 14:55:57,,2/25/2025,level1_viva7,"1. Show your notebook.
+2. Explain what you have done.
+3. Said that code looks clean, just gave 1-2 tips to improvise the code.",Chill guy
+2/25/2025 18:16:40,Sakthivel S,2/25/2025,level1_viva8_MLP_Viva ,"-> Asked me to introduce myself
+-> Asked me to start with the EDA
+-> As I was explaining each and every line of the code, there were no place for interruption and he had no other questions  ","-> Maintain a clean notebook and make sure you have implemented all the necessary models. 
+->Know well about each line of your code, you will probably not be questioned. "
+2/26/2025 13:11:19,manoj,2/26/2025,mlp_level1_viva9,"asked me to explain my notebook(didnt take that much time)
+then she gave me a question in gmeet to solve :
+Create a new dataframe called cat_df which contains only the columns of datatype 'object'. In cat_df, for all the columns which take less than or equal to 10 unique values, use OneHotEncoder(sparse=False, drop='first', handle_unknown='ignore'). What is the new number of columns in the cat_df dataframe?
+i wasnt able to solve but she was sweet she let me use google and documentation and suggested that i should work more on coding and said work more on coding for level 2 
+
+overall decent and she was nice",
+2/26/2025 18:38:41,S,2/26/2025,Level1_viva9,"1. Just presented my notebook. I did alot of code in nb so she didn't have much questions to ask.
+2. asked to copy the x train and divide into num and cat column.",Be calm and compose
+2/26/2025 23:04:58,Akash Kumar,2/26/2025,mlp_level1_viva9,Take training data split into 2 data frame between Numerical and Categorical data. Then scale it.,She was good and told me i can take help of documentation and I easily done it.
+2/28/2025 13:25:47,Reeshma k,2/28/2025,level1_116,1. asked me to explain the whole notebook workflow according to the rubrics ,"He didnt ask any question , just expected me to present and have a clean notebook"
+3/1/2025 10:16:49,Keerthika,2/27/2025,level1_viva2,"1. To explain the entire notebook. ( Pre-processing, EDA, Hypertuning, Model comparision and insights gained from the analysis)
+2. Asked me to code the pipeline I used in my notebook.",Just be confident and learn how every line of code in your notebook works.
+3/1/2025 17:22:34,,3/1/2025,level1-viva7,Explained my notebook clearly in 25-27 minutes. Later he came and gave suggestions to improve my accuracy score. Not asked any question. Gave suggestion about how to prepare for level 2 viva. Chill person.,Just be ready with your notebook and present confidently.
+3/1/2025 17:39:22,,3/1/2025,level1-8,"Asked me to show EDA. Explained the code in 10 mins.
+Gave some suggestions to improve code
+Completed my viva in 15 mins total
+","Most chill guy
+You should know each line of your code"
+3/1/2025 17:47:19,Anamika ,3/1/2025,12,"1. Code Random forest classifier with grid search hyperparametric tuning.
+2. What is robust scaling that is used in pipeline 
+3. What is pipeline.",
+3/1/2025 18:03:48,,3/1/2025,level3_30,"Seemed more like a MLT viva than MLP. No code just theory
+She asked what could be done if the data is imbalance (200 1's and 800 0's): answer use clustering: (make 200 clusters of 0 and choose 1 point from each to match with 200 points of 1)
+Formula for Pearson correlation
+Bagging classifiers to prevent overfitting and whether we give all of the features to each tree in a random forest: answer is No
+Is PCA linear or non-linear: Linear, unless kernel PCA
+Explain why L1 helps in eliminating features while L2 prevents overfitting","Focus on theory, I think she is a MLT instructor with no knowledge of code. She wont confirm if your answer is correct or not."
+3/1/2025 19:43:07,Rajesh ,2/27/2025,Level1_7,Just asked me to explain the notebook,Work on outliers after feature selection 
+3/2/2025 12:47:29,Muktavali Rao ,2/28/2025,Level1_viva7,"No questions asked. A very chill guy, will just ask you to present your notebook followed by some suggestions and that's it!",Just be confident and know what you've done in the notebook!
+3/2/2025 15:19:58,Prabhav Agrawal,3/2/2025,Level3_20,"1.) Explain The notebook 
+2.) How many Models have you trained
+3.) On how many did you do Hyperparamter tuning 
+3.) Why only on x(X being the number on which you did)
+4.) Which took the longest (Weird Question it depends on my parameters)
+5.) Explain Gradient Descent 
+6.) Now open a whiteboard and explain this in detail 
+7.) Why have you used accuracy not f1 score roc etc etc 
+8.) Make a confusion Matrix draw on white board explain it to me and then explain what the formulas of Recall F1 etc are",Re-Go through theory part of ML Study MLT MLF
+3/2/2025 16:10:00,Mahesh,3/1/2025,Viva18,"1. Explain the notebook 
+2. Shape of the test data 
+3. Shape of the training data
+4. First 5 rows of the training data
+5. Basic statistics of the training data (.describe())
+6. Count of null values in training data","Very chill, take your time to explain the notebook thoroughly "
+3/2/2025 20:16:12,Yash K,3/2/2025,Level3_20,"He is a really sweet guy. Would give his insights and suggestions at every part. 
+
+Dont stress much. Just keep explaining each and every part of your notebook in detail. 
+
+Like expalin why you used something and how is it better and do this for all things imputer, scalar, model.
+
+I had 13 models in total. I explained description for all of them and that was enough.
+
+He asked no other questions. 
+
+He will ask if you have any qu stions in the end. Just ask one or two suggestion..
+
+He will happily end the viva. ","Just improve your concepts. Nothing fancy !
+
+Have a great day "
+3/4/2025 18:55:43,S,3/4/2025,Level3_viva20,"1. Explain notebook
+2. Explain how PCA works
+3. Did you do hyper parameter tuning
+",Chill proctor. Went great
+3/8/2025 20:17:09,,3/8/2025,,"1. Write the code for pipeline, 2. RobustScaler explain ",
+3/20/2025 16:32:12,Anonym,3/20/2025,mlp_level1_viva14,"He was pretty chill. Asked me to quickly go through the notebook
+Asked total no. Of models that will be trained when param is used.
+overfitting underfitting
+What is cv. How cv works
+What resources u used
+What other approaches u tried
+Did u try other preprocessing and models
+His question  were mostly on preprocessing and models
+Lastly told MLT course theory will be asked viva 2 and unsupervised, regression questions can also be asked. Coding will also be asked to do in viva 2
+",Know your notebook thoroughly 
+3/20/2025 17:38:04,Ekta,3/20/2025,Lvl1_viva7,"It was a level 1 viva, the proctor asked no questions, just asked to explain the notebook. ",
+3/20/2025 19:10:35,,3/20/2025,Level1_116,"Asked me to explain the eda part then he moved on to imputation, then, scaling, models and then hyper parameter tuning. ","Just make sure you can explain each and every line of your notebook. That's it. 
+No extra questions were asked. "
+3/20/2025 19:29:59,,3/20/2025,mlp_level1_viva14_MLP_Viva," Explained my notebook in around 25 minutes.
+1. How many iteration will be there while training the model based on your hyperparameter tuning.
+2. Point out TP and TN in confusion matrix. ",just explain everything present in your notebook.
+3/20/2025 21:32:05,Anzar,3/20/2025,viva18,"what are these 'colsample_bytree': 0.8,
+    'learning_rate': 0.1,
+    'max_depth': 5,
+    'n_estimators': 200,
+    'subsample': 0.8
+and then what will happen if learning rate is increased, n_estimator is increased, max depth is changed",explain your code well & keep calm.
+3/20/2025 23:48:49,Pranav Darak,3/20/2025,viva_leve1_viva2,"Full notebook Explaination (Gave his expectations beforehand)
+Asked for indepth notebook analysis on things like Preprocessing, Feature Engineering
+Asked to code Pipeline","Be confident with notebook
+Do feature engineering"
+3/21/2025 16:09:40,Anubhav Agarwal,3/20/2025,level1_9,"1. She asked me to tell about data preprocessing first
+2. Then she asked about the models and why my model was preforming good.
+3. She asked about boosting and the parameters of GBC
+4. Then she asked about the OHE and Ordinal Encoder
+5. Asked why we put sparse_output=False in OHE
+6. Asked to separate num and cat cols and create a pipeline for the numerical and categorical columns","Don't just focus on the code, focus on the theory as well, as I was unable to answer what is boosting and why GBC was performing good. And this was level 1 viva.
+Overall, the procter was very nice"
+3/21/2025 16:27:30,,3/21/2025,mlp_level1_viva7,"super sweet and chill guy, asked me to explain the code and my notebook in detail, no questions asked. provided tips for level 2.","keep a clean notebook, well-commented, provide analysis, explanation etc.
+explain everything in a clear manner, that's about it."
+3/21/2025 16:52:58,Adii,3/21/2025,mlp_level1_viva7,"It was a level 1 viva
+Super chill guy as all the others have mentioned in this form.
+Just told me to explain my notebook in detail. I took my time and explained it in detail
+for about 20mins. 
+Later he gave me suggestions on how to maintain a clean notebook and that was all.","Know each and every part of your code from the notebook. 
+Maintain a clean notebook with insights after code blocks and 
+also try to explain each and everything you know. Try to learn about
+the models and explain them as well. Be calm and confident.
+All the best to whoever reading this!"
+3/21/2025 18:36:31,,3/21/2025,level1_viva8,"Show ID card
+Don't tell me line by line, just tell me what you understood from EDA
+What preprocessing did you do? Did you use any pipelines?
+What are the parameters in LogisticRegression?
+What are the loss functions used in LogisticRegression?
+Loss function in RFC?
+Parameters in RFC?
+Is RandomForestClassifier a bagging or boosting algorithm? How?","Overall, I feel he is good and supportive, he was saying it is okay if I did not the answer but be prepared with the basics of theory. Be prepared with your ID card and notebook as he appreciates readiness."
+3/22/2025 10:20:12,Dev,3/21/2025,level1_viva9,"1. tell me about your eda
+2. did u use pipeline, if yes why, if no why
+3. did u use feature engineering
+4. code- load ur train data set and separate the cat and num column
+5. code- the encoder u used. or any encoder
+6. why lgbm is show more accuracy
+7. what is standard scaler
+8. what is overfitting
+9. how many types of encoders u know and why did u use those in ur project",have basic level knowledge of these questions. and be ready to code. she'll basically see that do u know to code or not. 
+3/22/2025 10:21:32,Raj,,level1_viva8,"1. show eda. told me eda is less
+2. done. didn't ask anything and said its ai generated code. u will have to repeat.
+3. very strict",
+3/22/2025 13:33:40,Mahabodhi Bhattacharjee,3/20/2025,level1 116,He just asked me questions related to my notebooks. he just checked all marking criteria and finished it in 20 minutes," just explain your notebook well and short and understand your notebook well,"
+3/23/2025 7:59:08,Purushothaman,3/22/2025,Level1_Viva8,"1. Explain the EDA , and one thing you noticed about the dataset
+2. Loss function in Logistic Regression
+3. Parameters in Log Regression, RFC
+4. Difference B/w Parameters and hyperparameters
+5. Coding: Create a pipeline for Numerical and Categorical Columns with SI,Robust Scaler and KNN, OHE Resp.","Even if you have not done EDA just be honest with him, he seems to be very supportive. Be good in Theory as well as your notebook. Try to Maintain a clean Notebook. Ensure there is no data leakage from your preprocessing. "
+3/23/2025 9:09:20,,3/21/2025,level1_viva14,"Briefly explain the notebook in about 10 mins
+
+Asked about the parameters chose in the model
+
+Change the hyperparameter tuning from randomisedsearchcv to gridsearchcv
+
+Asked to point out TP FP in the confusion matrix
+
+How did you analyse if the model is overfitting or underfitting
+
+If the dataset size is increased which model do you think would perform well.
+
+Bagging and boosting in depth
+
+He gave tips to for level 2",Very chill… looks friendly… just confidently explain your notebook and also the findings.
+3/23/2025 16:27:50,IA,3/20/2025,mlp_level1_viva9,"-Explain notebook
+-Why minmax scaler over standardscaler. Explain both and their difference (range,values)
+-Coding question: Reload the training data and create a new cell in the end of the notebook. Split categorical and numerical columns and create separate pipelines where imputing is done on both , scaling on numerical and encoding on categorical columns. Apply (fit) both these pipelines to the training data (columntransformer).
+-Mention all the models u tried while training",Learn how to code well and know each and everything done in the notebook
+3/23/2025 16:35:29,IA,3/23/2025,level2_74,"Questions were asked before presenting notebook:
+-What is data preprocessing, Feature Engineering
+-Why is Hyperparameter tuning required?
+-Which models did u try and which worked the best and why did it give the best results?
+-Why set random_state= 42
+-What happens in dimensionality reduction? Does it crop/cut data?
+-If the house's past price is given and you need to predict future prices, which ML model is suitable and why? What are the steps for that model's algorithm?",Learn from the Gsheet responses well and explain your notebook in a detailed manner
+3/23/2025 17:11:04,,3/23/2025,12,"Level 1, proctor 12
+- explain code 
+- code confusion matrix for xgb
+- code preprocessing pipeline for imputation and scaling 
+- explain logistic regression",
+3/23/2025 19:04:14,,3/13/2025,viva1_level12,"Explain your notebook very well
+He asked everyone to code a pipeline
+Some people were asked to code hyperparameter tuning
+
+No theory questions",
+3/23/2025 22:28:33,,3/22/2025,mlp_level1_viva14,"the number of iterations my model will perform
+asked me to code randomized search cv for logistic regression
+if I have analyzed that my model is overfitting or underfitting
+explain cross validation
+asked me if I have used scaling technique
+continued.. why standard scalar what is the difference between other scaling techniques","for people who do not know coding well, learn hpt coding for all the models you have in the notebook and go through for other models as well such as logistic regression
+
+overall he is kind and he will listen to you"
+3/23/2025 22:41:52,,3/23/2025,74,"- Why EDA is required
+- Why preprocessing is required.
+- Difference between Random Forest and Decision Tree
+- Why Hyperparameter tuning is required.
+- Explain your project
+- No coding round
+- Feature Scaling related
+- How hyperparameter tuning is done
+- Grid Search CV
+- Randomized Search CV
+-PCA and Dimensionality reduction. Does it eliminate any data points
+- Outlier Detection and Treatment
+- How did you handle missing values?",Chill
+3/24/2025 11:26:51,David,3/24/2025,mlp_level1_viva7_MLP_Viva,"1. Explain your code and approach
+2. Have you used Pipeline and Column Transformer
+3. Explain Simple Imputer and One hot encoder
+4. Which CV was used
+
+Gave some suggestions
+1. proper commenting
+2. Include comparison between models","Just explain your notebook thoroughly.
+Know each and every line of your code properly"
+3/24/2025 12:09:07,Praveen,3/23/2025,mlp_level1_viva8_MLP_Viva,"1. Explain Notebook
+2. Explain Logistic Regression
+3. What are parameters of Logistic Regression
+4. Loss function for Logistic Regression
+5. Edit Preprocessing pipeline. Add a robust scaler
+6. What will happen if you do step 5
+",He was chill. Add notes to all the code that you do. It will help you to explain the code. Explain why you did certain code reasoning behind. I think I have put a neat notebook which might have helped me. He said you did a good job and explained me how I can make my code better
+3/24/2025 13:16:21,,3/23/2025,level1_116,"Explain insights from your EDA
+What is a box plot
+Where have you used encoder/scaler
+Have you used a pipeline?
+Have you used stacking?
+Simple imputer vs fillna
+code a pipeline",Manual preprocessing should be avoided. Use Pipelines and CT for preprocessing.
+3/24/2025 17:18:35,,3/24/2025,mlp_level1_viva7_MLP_Viva,"1. Difference between One hot encoding and label encoding
+2. Why is pipelining used?",Explain your notebook nicely.
+3/24/2025 20:20:31,,3/24/2025,level1_116_MLP_Viva,"1. Explain what you have done in 10 minutes.
+
+After explaining --
+   Just checked if all the things are present in code like - EDA, Pipelines, feature engineering,  models, hyperparameter tuning.",Keep your code clean and make sure you can explain your code.
+3/25/2025 8:36:23,,3/24/2025,Level2_75,"1. What is gradient descent
+2. How logistic regression can be used for multi-class problems
+3. How gradient descent is related to logistic regression and multi-class problems
+4. What is ROC-AUC, how can you apply it for the project you did
+5. PCA in detail","Prepare your notebook well, and if you do not know a topic just tell him rather than answering wrong"
+3/25/2025 11:50:27,,3/24/2025,l1_viva14,"basic overview of notebook
+asked me to code randomsearchCV with any of the 2 models(perceptron, SVM)","he is a very chill guy, he will also help you if you are stuck somewhere"
+3/25/2025 13:18:19,,3/25/2025,LEVEL3_30,"MLP LEVEL3_30
+Duration- 50 mins 
+
+Q. Introduce yourself 
+Q. Explain your notebook 
+
+Q. How have you handled Nan values 
+Q. If there are outliers in the feature, what imputer should be used 
+Q. How does Logistic regression work 
+Q. What is the loss function of logistic regression 
+Q. How does linear regression work 
+Q. What is its loss function
+Q. How does Random Forest Classifier work 
+Q. How does XGB work 
+Q. Difference between Bagging and Boosting 
+Q. What are the types of feature reductions 
+Q. How does PCA work 
+Q. What are eigen vectors 
+Q. How to Calculate PCA manually 
+Q. How to Calculate EigenVectors manually 
+Q. If we are determining poisonous apples, do we need Precision or Recall 
+
+She is more into theory, not a single coding question asked","Know the theory well, she doesn't ask coding questions "
+3/25/2025 14:51:25,Achal Deep,3/20/2025,Level1_7,Notebook Explanation only,"Stay calm while presenting, and add observations/conclusions in your Notebook"
+3/25/2025 14:58:03,Achal Deep,3/24/2025,Level3_19,"Why we need train test split ?
+Confusion Matrix (identify True Positive, TN, FP, FN in multi label categorical data)
+Explain Overfitting, Underfitting",Revise theoretical concepts (what & why)
+3/25/2025 15:00:39,,3/24/2025,Level1_viva_7,Onehotencoder and RandomeForestClassifier,Just know what you've written in your notebook. Make sure to write down your observations.
+3/25/2025 15:31:33,,3/25/2025,level3_20,No question asked,Explain each and everything in the notebook-what you did and why you did it. That's it. 
+3/25/2025 23:53:56,Anon,3/25/2025,level2_74,"Did not ask to share notebook initially.
+What is data preprocessing?
+What are the steps in data preprocessing?
+What is Feature Scaling? Why to do it?
+What are outliers? How to manage them?
+What are hyper parameters? What is Hyper parameter tuning?
+What is the difference between gridsearchcv and randomsearchcv
+
+I have a house which was priced at X rs 10 years ago. I have to predict it's price now, what model would you choose and explain it's mechanism
+
+What is dimensionality reduction? What is reducing in it?
+
+Then he asked me to share notebook and give overview.
+
+He asked which models I used, he told me to explain the three models that I used and how and why
+
+He asked if I took care of null values and how
+
+He asked what is 42😂 I told the same ""Hitchhikers guide to galaxy wala answer"". He said he is fed up with students answering this mugged up answer. So I told him something something. Some students told that there was a divine meaning to 42 it seems😂😂
+
+Then finally he asked why we do EDA and its importance. 
+
+That's it.",Look at other's feedback in this sheet and learn. That is enough mostly..
+3/26/2025 11:37:17,,3/22/2025,mlp_level1_viva7,"No questions asked!
+
+- explained notebook for 25 mins and that's it.
+- gave suggestions to improve notebook.
+- good experience overall",Prepare your notebook well and explain confidently! Best of luck!
+3/27/2025 17:25:17,Gaurang,3/21/2025,mlp_level1_viva9,"1) Show and give an overview of your notebook.
+2) Questions about my code in EDA. For eg. I was asked to explain any 2 histograms, and what i can infer from them.
+3) How have you implemented feature processing ? Show where I have utilized the pipelines functionality.
+4) How have you handeled missing values? 
+5) What different models have you used? What models give you the best scores?
+6) Asked about hyperparameter tuning, why and how we do it.
+7) What is bias-variance trade off?
+8) What is recall? then asked me to write/edit the code to print the recall score for a model instead of accuracy_score.
+9) Then asked me to write some super basic code, for example to print all numerical columns and non-numerical columns.
+10) What are ensemble methods?
+
+I answered questions straight forward, the proctor was super nice, and very polite. At a point I had to stop and recall a point, but she was very patient !","Very understanding proctor, take it easy, dont stress and be confident. "
+3/28/2025 10:36:43,,3/27/2025,level2_124,"1. Introduction and experience so far with this project
+2. Asked to explain notebook within 15 to 20 mins
+3. Asked for my accuracy.. and asked what changes could be done to improve accuracy further
+4. Explain logistic regression
+5. Decision tress and random forest
+6. Hyperparameter tuning and its types
+7. Where decision trees are used in real life.
+8. Asked to code rfe… basically he will give a dataset and extract 2 features using rfe.
+I had to do preprocessing before implementing rfe.. so practice scaling encoding imputing(the dataset had missing values)… and ofcourse using pipelines and Columntransformer. 
+He gave suggestions in the end","Explain deeply if asked about any model… this will save your time and he wont ask so many questions 
+Overall he is chill.. if you know your notebook well and prepare some models deeply you are good to go😊"
+3/28/2025 18:05:34,,3/28/2025,Level3_31,"Level3_31
+
+The viva was amazing...she was really very polite and patient.
+SHe let me explain everything, then asked few questions related to 
+Confusion Matrix
+Explaiin any graph
+explain any model
+baggin/boosting
+hyperparameter tuning
+Encoding techniques
+Kmeans, KNN
+
+
+Later she asked about my career by far, what I plan to do after this, my projects, internships, etc
+
+Overall it was great",explain everything in as much detail as you can
+3/28/2025 18:10:52,MJ,3/21/2025,level1_viva9,"First she told me explain eda,preprocessing and feature engineering then told me to show three models and tell the comparision
+Then she told me to separate categorical and numerical data
+Then I was asked to code any of my one  models on the dataset
+bagging boosting, overfitting
+
+
+she was great, finished my viva in 17mins
+
+",Explain your code in detail
+3/28/2025 21:29:16,SIV,3/28/2025,level3_20,"No questions were asked, he said good i have no furthur questions","just straight out askd me to explain my code and asked my ranking in kaggle, and asked my  final score.
+just make sure to explain eah and every line of ur code slowly and with reasons why you choose, make it to 15 ~ 20 minutes u will be good. (more graphs the better, put a model score comparision graph)"
+3/29/2025 0:21:07,,,Level1 - 7,"Level1 viva: viva went for 20 mins, no specific theoretical questions were asked. Just explain your notebook well. Be specific - eg, what EDA has been done, why. Which models did you choose and the reason behind it.","He's cool. Make sure that your NB is properly organized, well commented and you are able to explain your code thoroughly."
+3/29/2025 0:25:57,,,Level 3- 20,"Level 2 viva: went for 45 mins. Asked for a detailed explanation of the NB (this went on for 20 mins). Questions asked: did PCA improve the score in this dataset? On what basis were 5 cols removed from the dataset? - selectkbest... Explanation... Followed by Truncated SVD, how does it work? What's bagging, boosting?","He's nice. Possibly an industry expert. Make sure you know your code very well, that should be enough."
+3/30/2025 12:17:58,,3/30/2025,Level 3_28,"This ma'am was quite sweet and helpful
+I explained the notebook in 20-25 minutes
+She was impressed by EDA and my feature extraction
+She explained and corrected me in things I was lacking
+Just make sure that your EDA and feature extractions are good(like you don't need to go super in depth for that, just have some good visualisations, and some good insights written in a markdown later, like a list of them(it's quite important))
+Didn't focus much on the later parts, so I just skimmed through that
+I didn't do feature selection(like PCA and other things) so do that as well even if the model accuracy goes down
+She did ask me about one thing that I didn't get which was univariate and bivariate distribution which I forgot at the time, but rest of them was quite basic
+She just focused on my notebook 
+
+At the end, she'll make notes of the following:-
+
+1.) whether you have eda, feature extraction, feature selection, preprocessors, splitting, models, hyperparameter tuning, confusion matrix, model comparision
+
+2.) have you written like a list of insights from your EDA
+
+3.) even if you have done one or two good feature extractions (good being the key word!), like making a new column by combing a few of them, or making an entirely new columns out of an existing one, she'll be impressed
+
+
+
+Rest she was quite friendly so don't sweat too much!",
+3/30/2025 17:32:13,Anonymous,3/30/2025,level3_20,"No questions asked. 
+
+Just one basic question around PCA or feature engineering if you have done, what was their result & why ?","Just explain the notebook properly, if you have a good score and can impress him, he won't ask anything"
+3/30/2025 18:56:00,midhun reddy,3/29/2025, level3_20_MLP_Viva,no questions at all. just asked me to explain the project. i explained all the features in detailed. then i explained my models. at last he gave some suggestions. ,"just chill, explain ur notebook and ur good to go. "
+3/31/2025 10:59:24,,3/31/2025,mlp_level1_viva7,- Explain the kaggle notebook - What is one-hot encoding? - What is the difference between one-hot encoding and target encoding?,All the best👍
+3/31/2025 11:47:47,Shamanthak,3/31/2025,Level1_viva14,"very nice and chill guy.
+asks you to completely explain the notebook. 
+then focused mainly on the hyperparameter tuning process
+told me to explain why I have chosen a specific model.
+last he told me to code GridSearchCV for perceptron.","be well verse with your notebook.
+get ready to write a short code (simple one) mainly on hyperparameter tuning (allows documentation). "
+3/31/2025 18:45:17,Kashish ,3/31/2025,L_3_viva_20,"Just asked i had done PCA, selectkbest. Suggested that i should try to use Multilayer perceptron.","Explain well, know what you are explaining. Tell what was your thought process."
+4/1/2025 21:44:05,Kushagara tripathi,4/1/2025,mlp_level1_viva9,"* Asked to show the graph then explain the graph 
+* Ask the random question don't explain the nootebook line by line
+* My gone very bad","Be prepare for doing some coding
+"
+4/2/2025 12:31:11,Pratik,4/1/2025,level1_viva9,"1. Show me the EDA visualisations you
+2. Have you performed Hyperparameter tuning? show me
+3. Which models you choose? What's the comparison between them? in terms of result.
+4. Do the train & test split for the dataset
+5. Tell me about Bias & variance tradeoff.","Go through your notebook. Coding part of pipelines and training the model. Go through theory questions mentioned in the sheet from the proctor. This proctor id has two person. It can be Sir or Ma'am, so prepare for both of them."
+4/2/2025 17:01:44,Awaiting results ,3/29/2025,Level3_31,"Chill proctor & patiently heard me
+
+Explain your notebook
+Basic questions about how SimpleImputer(mean, median & mode) & Encoder works?
+Explain anyone model
+Give general explanation of Confusion matrix and how any model works
+What is loss function?
+",Explain your notebook well. Explain key things. Go with in-depth explanation. 
+4/2/2025 23:49:30,Aparna,4/1/2025,level1_viva9,"1. Asked to explain the notebook first
+2. What is bagging and boosting
+3. What is bias Variance tradeoff
+Coding:
+1. Load the train dataset
+2. use train_test_split on it
+3. print the shape of X_train, X_test, y_train,y_test",Keep the notebook very organized. Ensure that you have followed all the important checklist items for l1 viva.
+4/4/2025 1:15:56,Anonymous,4/3/2025,Level1_viva9,"Explain your notebook clearly , step by step 
+Then he ask 3 theory questions : 
+1. what is one-hot encoder and where and why did you used it in your notebook
+2. what is SimpleImputer and where and why did you used it in your notebook
+3. Where did you implemented pipeline and what is its use their 
+that's it then he give his suggestions for lvl2 viva.",Just be confident and prepare how to present your notebook with confident and know each steps and its usage . that's it
+4/4/2025 19:49:20,,4/4/2025,level3_20,"very good proctor, just explain the notebook",stay chill
+4/5/2025 20:37:32,Pratik Sonawane,4/5/2025,Level3_19,"Explain notebook 
+Tell me what is the case of low training accuracy and high test accuracy
+What is the confusion matrix
+what is the correlation report 
+what is data leakage ",Keep reading the basic concepts & their importance 
+4/5/2025 23:06:30,,4/4/2025,level_3_19,"1. He told me to share and explain notebook
+2. Then he asked me about the confusion matrix and tried to trick me in different ways to identify True Positives (TP), False Negatives (FN), and other components related to Confusion matrix.",Prepare well on Confusion matrix if this proctor taking your viva
+4/6/2025 8:57:12,Lohith D,4/2/2025,mlp_level1_viva9_MLP_Viva,SimpleImputer What is it and its functionality(How it works),This Proctor was completely friendly and did not even raise any questions while i was explaining my notebook . He said that my notebook fulfilled all the pass criteria at the end and proceed onto asking that one single question after which he told me that i have passed for viva 2. But i would not expect the same proctor for this id because they seem to rotate afaik from what students reported (This was for the final batch)
+4/6/2025 10:10:35,Aparna,4/5/2025,level3_28,"1. Asked about my academic background
+2. Asked me to explain the notebook. (did for about 30 mins)
+She interprets you in between to ask questions and also gives suggestions in between. She is very polite and nice. She expects students to explain the code and results (like Model Comparisons and graphs, PCA) using Statistics and Linear Algebra concepts. She also expects deep understanding of the dataset.","Explain your code from statistics and Linear Algebra POV. Thoroughly explain the EDA not just in the form of graphs but try to correlate the graphs with some real-life knowledge. Example: in the graphs based on Processor Count, we see there are few systems having many cores. These could be high end devices with specialized purposes like it is a server. This is a real-life fact which you can use to correlate with your EDA results."
+4/8/2025 14:07:58,Adii,4/8/2025,level3_20_MLP_Viva,"It was level 2 viva
+Similar to other experiences from this form.
+Just Told me to explain the notebook
+No questions asked at all after clearly explaining everything.","Know your notebook properly.
+If you explain the notebook properly and give reason to
+why you have implemented something in your notebook, 
+you are good to go.
+Maintain a neat notebook.
+Don't panic as the proctor is a cool guy!
+All the best! Wishing whoever reading this the best!"
+7/4/2025 11:07:41,Ishita,7/4/2025,Level1_118,"- asked to present the notebook
+- asked a little in depth about the models used
+- difference bw rf and xgb
+- questions on lasso model
+- asked what all scoring metrics can be used in gridsearchcv and how will the result change/not change?
+- looked at the eda thoroughly
+- asked how i did the cleanup and how did i merge/separate the train and test data (i had merged)","don't worry, just know your notebook, he's the sweetest proctor I've come across"
+7/6/2025 14:48:23,,7/5/2025,l1_14,"1.) explain you notebook briefly
+2.) what is CV? how it works?
+3.) resources?
+4.) best model?
+5.) HPT? which?
+6.) gave tips of L2 viva that most questions will be from MLT course and live coding can be called...
+","just be confident, he is chill"
+7/21/2025 15:34:47,Tarang Pansuriya,7/21/2025,level1_viva9,"started with to present my notebook.
+i explained the whole notebook for around 20 minutes.
+she liked my two stage model(classification+regression) approach from which i am getting highest score.
+asked about ridge regression alpha value?
+asked about ensemble learning 
+bagging boosting
+No coding question was asked","she was the very chill. if you explain your notebook in details she will not ask any questions.
+she suggested some changes also for level 2 and told to work on theory part for level 2."
+7/22/2025 11:21:31,,7/22/2025, mlp_level1_viva14,Asked me to explain my notebook in brief. Time was up by the time I finished with notebook explaining ,"Proctor was very friendly and easygoing
+Explain notebook in such a manner that it covers all topics 
+e.g. 
+EDA explanation, insights gathered from it. 
+data preprocessing..
+what are your models?
+what do those models do ? 
+How does the model work?
+what does some of those terminology mean ?
+what do you infer from those models ?
+atb!"
+7/22/2025 16:17:28,Yash Agarwal,7/22/2025,118,"1. Diff between multiple ensembling techniques
+2. OOB score param in Rf
+3. Few question on HPT ttuning method
+4. Gradient boosting 10 weak learner are given explain model building process",Humble and a good listener.
+7/22/2025 20:56:58,Tanush,7/22/2025,level1_117_MLP_Viva,"1. Show ID
+2. Show and explain notebook
+3. Why did you power transform target with specific power
+4. After notebook presentation, asked explain xgboost
+5. Explain difference between xgboost and extra trees regressor
+
+Very helpful and understanding examiner. My internet dropped mid viva, and he said no worry continue ahead.
+","Explain the models and their parameters beforehand in short, explain working or algorithm approach of each model as explaining the code."
+7/23/2025 7:44:42,Henil,7/22/2025,Level1_116,Firstly told me to introduce myself. Then told me to explain the notebook in 10-15 mins. Afterwards went through the code again just to check if all rubrics were present. No questions asked.,Very easy. Just make sure your code has all the rubrics in it
+7/23/2025 12:34:55,sachiv,7/22/2025,level1_118,"-Difference between RandomSearch and Gridsearch
+-How many combinations of hyperparameter are done based on n_iter and cv
+-How much data is used in Bagging
+-Weak learner's predictive power
+","Just be super good with notebook
+Questions are asked based on the explanations given during the presentation of notebook"
+7/24/2025 8:34:21,Dhinesh L,7/22/2025,level1_viva9,"1) I've started explaining my notebook
+2) She told me to skip sections , asked me to show charts, preprocessing, feature engineering, model training
+3) asked me to do train_test_split",I've only did the bare minimum 3 model. it would be better to do more than that
+7/24/2025 12:23:52,Rajat Shenoi,7/24/2025,mlp_level1_viva14,"1. Explain the notebook
+2. Explain your hyperparameter tunining
+3. What is CV?
+4. What will you do if your model overfits or underfits?","Proctor is very chill, gave tips for level 2 viva too."
+7/24/2025 15:29:35,Kavya Jain,7/22/2025,mlp_level1_viva9,"1. Explain Notebook
+2. perform train test split
+3. explain encoding and scaling used
+4. r2 score",
+7/24/2025 16:08:04,Garima,7/24/2025,level1_viva18,"1- Asked how I approached the problem.
+2- Then to show and explain the notebook.
+3- Gave one suggestion on EDA.",Very patient proctor. Just be thorough with your notebook.
+7/24/2025 16:45:31,,7/24/2025,level1_viva16,"1.No intro just asked to show id
+2.Asked to start explaining the notebook
+3.If you explain everything in detail he tells to skip the part and go on 
+4.Asked to explain feature engineering (any one feature)
+5.Then saw pipeline and asked about imputing and encoding
+6.Asked to explain about any model that you used (your choice)
+7.Finally seen hyper parameter tuning and asked to explain any one hyperparameter",He may ask 'why' questions based on what you explained. He is a nice guy and takes very less time.
+7/24/2025 19:09:46,Dk,7/24/2025,Level3_29,"He asked these questions 
+1.introduction of your 
+2.how svm works 
+3.how pca works 
+4.what is oversampling 
+5.how knn works 
+6.asked to create a dataset using random numbers 
+7.asked to load dataset from sklearn 
+8.asked about entropy 
+9.asked about information gain
+10.asked about parameters and hyperparameters
+11.confusion matrix
+12.correlation
+13.tree based algorithms 
+14.about graphs
+15.how learning rate works 
+16.how regularisation works 
+And many more ....😨🥹😭😭",Just revise  all the mlp theory...
+7/24/2025 20:15:41,VIJAY,7/22/2025,LEVEL1_VIVA9,"1) Notebook explained (25min)
+2) asked about categorical colums and how did u encode it 
+3) what is mean by MINMAX scaler 
+4) range of minmax scaler ( i said 0-1, but she says it wrong idk)
+5) diff btwn bagging , boosting",
+7/24/2025 20:45:08,Manav Chawla,7/24/2025,mlp_level1_viva7_MLP_Viva,"What is XGBoost?
+How XGBoost works?
+Told me to explain the notebook...","Just be confident and try to explain every simplest thing, keep your core knowledge clear"
+7/24/2025 20:53:33,,7/24/2025,Level1_118,"1. Notebook presentation
+2. Is Random forest parametric or non parametric.
+3. And some questions about why I used this approach","Very chill guy. Is punctual, so you must try to do presentation in 15 mins. He would only ask about models present in the notebook. So prepare the parameters, working and mathematics of the model."
+7/25/2025 11:04:14,Gaurav Tomar,7/25/2025,level3_31_MLP_Viva,"Feedback: Level3_31
+proctor is mam and higly supportive and polite
+it is like a level 1 viva
+1. explain notebook 
+2. mean,median,mode
+3. hyper parameter tunning
+4. mostly eda parts and pipeline and feature engineering
+5. explain parameter of hyper parameter tunning
+6. explain any model
+7. oversampling: I don't remember it
+8. 15 min on future planning , industry insight ,carrer
+9. loss function
+10. at last Easier than Level 1",know your code word by word and don't panic and learn one model best from your code on tips of your finger to explain in deep
+7/25/2025 11:45:12,Manas,7/24/2025,Level 1_MLP16,"1. Show EDA, told me to pick any 1 and explain in detail
+2. Explain how any 1 model works
+3. Why does hpt give you the score it does
+4. Explain 1 HPT parameter","Explain notebook properly, keep it well documented, L1 is easy to pass as long as you can explain your thought process"
+7/26/2025 10:49:24,,7/23/2025,Level1_viva16,"- Explain the notebook
+- EDA part
+- Model explanation
+- Explain the hyperparameters",
+7/26/2025 11:01:12,Rayaan,7/26/2025,Level 3 - 31,"These are what she asked -
+1. Explain the notebook – Overall walkthrough of the code and process.
+
+2. Feature engineering – Techniques and logic used.
+
+3. Simple Imputer – Why mean, median, and mode are used.
+
+4. Oversampling issue – What it is and when it causes problems.
+
+5. Encoders – Target encoding vs One-Hot encoding; general use of encoders.
+
+6. Model explanation – Detailed explanation of any one model used.
+
+7. Model rejection – Why some models were discarded.
+
+8. Graph interpretation – Graphs used and what insights they give.
+
+9. Feature engineering in production – Its role and effect on latency.
+
+10. Hyperparameters – What they are and how they were tuned.
+
+11. Company practices – How companies clean datasets and use ML in production.
+
+12. Personal questions – About you and your academic background.","She was incredibly sweet and supportive. The key is to explain your problem statement clearly, walk through each cell with reasoning, and avoid using complex terms just to sound smart. Keep your answers simple, industry relevant, and stick to what's on the sheet."
+7/26/2025 12:42:05,Rajat Shenoi,7/26/2025,level3_31,"1. Introduce yourself.
+2. Explain your notebook.
+3. Explain the reason why you have feature engineered each new feature.
+4. What is the validation size in train_test_split?
+5. When will you impute with mean, median and mode?
+6. Explain any one model. Need not be the ones you used, can be anything.
+7. You haven't used confusion matrix here, but do you know what it is?
+8. What about your future? Will you do masters?","Ma'am was one of the best viva examiners I have appeared before till now. Very calm and chill, will listen to everything you say. Just ensure you know the code you have written and you will be good to go. No coding questions asked.
+
+TL;DR Easier than Level 1."
+7/26/2025 14:10:15,,7/26/2025,level3_29_MLP_Viva,"What is machine learning?
+What are the types of machine learning ?
+Name any three unsupervised algorithm
+how KMeans work ?
+then asked me to create new notebook and use load_digit dataset and apply kmean algorithm and find the optimal kvalue (I wasn't able to do that 🥲 so he told to leave it for now )
+allowed me to use sklearn documentation although just once.
+told me to explain the preprocessing that i had done for my notebook
+asked me if i my datasset contains any outliers and then follow up question how i removed them?
+if suppose i have a dataset which has many outliers then which model would be suitable?
+why did i chose randomforest as one of the model ? then more questions on how i ended up selecting parameters in rfr...
+what is function of r2_score ?
+what are the solutions for overfitting ?
+in decision tree how will the root node be selected ?
+what is the use of pipeline ? (I used pipeline in my code )
+what is the concept of pure node and impure node?
+went back to that coding question asked me to solve it again honestly i couldn't do it so gave me another coding question.
+then told me to find the size of the load_digit dataset, and based on that told me to apply SVM and do the classification use an appropiriate function.
+what are the different optimization functions in neural network?
+what is the input of relu function and output ?
+what is one vs one and one vs all approach ? i couldn't hear this properly so ended up repeating the following question again...what are the solutions for overfitting ?
+what is t-test?",
+7/27/2025 22:18:48,,7/22/2025,mlp_level1_viva8,"Explain your notebook what you have done (don't explain every line of code).
+Asked what are parameters of Random forest (don't get tricked rf is non-parametric model)
+            is RF bagging or boosting, what is bagging
+            in xgboost hpt if our model is overfiting for n_estimators  do we increase or decrease                    
+            it and why, and same for learning_rate also.","Interrupt in between as I have used a circle emoji as bullet points told me to remove them he thought I have copied the code, then I showed him my recent keyboard emoji . If you know your work well it will go good."
+7/28/2025 9:29:13,Garvit ,7/25/2025,Level1_116,"1. He First asked me to explain the Problem Statement, and this is very important to read the statement before anyone goes for the viva .
+
+2. He then asked to explain the Notebook, I was explaining into a more detail, so he suggested me to only explain it faster.
+
+Rest no questions were asked , he also checked the score on right panel for verification and to check that how does one explains the Notebook.","At The end he suggested me to reduce the Markdown Text as I have included markdown for code cell in para format , he suggested me to do it in points , rest was good."
+7/28/2025 9:37:00,Garvit,7/27/2025,Level2_124,"He was there in Viva 2 , at first he asked for my intro and then asked me to explain the notebook.
+
+1. Then he asked me following questions:
+- Methods of Hyper Parameter Tuning
+- Difference between Overfitting and Under fitting, and how can u resolve this
+- Explain Descision Tree Algorithm.
+
+2. Then he asked me Coding ques - To create a Toy Dataset which shall have values like '?' and None
+And then to replace it with NaNs.","Practice basic coding questions of pandas and numpy
+Read Algorithms and their mathematical intuition before going  to viva and it would be better to include Linear Models before jumping to complex Models (like Tree Based Models or MLP)."
+8/5/2025 13:11:25,Dhinesh L,7/25/2025,Level2_124,"1) explain notebook in 20 minutes . I took 25 mins 
+2) tree algorithms. 
+3) asked me if logistic regression or scam detects outliers better
+4) what is target encoding 
+5) overfitting vs under fitting 
+6) bias variance tradeoff ",Prepare this sheets you’ll be ok 
+8/5/2025 15:24:45,,8/4/2025,level1_116,"Explained the entire notebook from the beginning within the 10-minute time limit.
+After the explanation, he went through each item on the rubric checklist to ensure everything was covered.
+Hyperparameter tuning
+Pipeline creation (which I had not done).
+For model comparison: (My suggestion) Include multiple relevant factors in the comparison. Not just R2 (regression pblm)
+Provide a comprehensive and appropriate evaluation of the models.
+The examiner was relaxed and friendly throughout the viva which lasted 20 minutes approx","Don't be stressed just prepare with your notebook, you'll be fine"
+8/5/2025 15:42:51,,5/8/2025,level1_viva9,"1. Write code on loading train set, then use train test split to split the data and print the shape of splits.
+2. What is R2 score?
+3. What is Bagging? What is Boosting? Difference between them.
+4. What is bias-variance trade off?
+5. What is overfitting?
+6. What is unsupervised learning?
+7. What kind of problem statement we had (supervised or unsupervised)?",Study in brief about ensemble methods such as Bagging and Boosting. 
+8/5/2025 19:10:47,Astitva Agarwal,8/5/2025,mlp_level1_viva14_MLP_Viva,"Level 1 viva 
+Very Chill Procter 
+Asked me to show id card 
+Then told me to open my notebook ,
+So i started explaining my notebook and i explained each and every line , every terminology and i explained each topic why this was used what is the meaning of this in detail that took around 32 mins then when i finished explaining he just turned of the meet and said that was great and give me tips for viva 2 that theory from mlt and some coding will be asked and official documentation of sk learn is allowed , that's it no questions asked .","Please go through the sheet, summarize the questions asked and prepare accordingly , and explain the notebook in detail so that the examiner doesn't have any questions left."
+8/5/2025 21:15:07,Himanshu Gupta,8/5/2025,level1_viva14,"
+
+Very Calm Procter 
+He firstly asked me to show id card 
+Then told me to open my notebook ,
+
+Directly ask me to show your all visualisation and then explain why your use that .
+
+Show me your pipeline and features engineering. 
+
+What type of model you have use?
+
+Show HPT?
+
+Explain train_test_spilt and CV.
+ 
+He give me some feedback and then tips for prepare for viva 2 that theory from mlt and  coding will be asked and official documentation of sk learn is allowed .",Practice explanation of your notebook along with key findings of visualisation for level 1 viva 
+8/6/2025 11:37:09,Abhishek Rawat,8/5/2025,mlp_level1_viva18_MLP_Viva,"Explain your problem statement
+which model you have used ?
+Ask about parameter grid for hypertunning and what they do specifically
+Ask about preprocessing Steps
+then Go through you Eda and Explain it",do't be panic 
+8/6/2025 14:33:34,Jatt,8/6/2025,Level2_123,"
+Tell and explain which and why did u imported the libraries (which were used in the notebook)
+
+Why did u use seaborn along with matplotlib
+
+Randomly asked to explain a heat matrix which i was showing
+
+What is the objective of the project
+
+Do model comparison
+
+What is xgboost matrix( dont have any idea)
+
+Regression vs classification 
+
+Asked small details of the code used
+
+How u selected the models
+
+Asked about the things like why have u used this code instead of this","She is very nice proctor
+
+Asks questions like why have u used this instead of this in code
+
+Dont pause in between
+If u dont give her time she will not ask much questions 
+
+The moment u stop she will ask questions
+
+Calm and patient "
+8/6/2025 18:06:37,,8/6/2025,mlp_level1_viva9_MLP_Viva,"Explain your code
+What is boosting?","Be calm, dont panic"
+8/6/2025 18:54:14,Aditya,8/6/2025,Level1_viva8,"1. Explain eda 
+2 . Go to pipeline and explain that
+3. What are parameter in xgboost
+4. If model overfits then estimator should increase or decrease and why? 
+5. Same question but for learning rate
+6. Used any function or not
+","1. Explanation and perform eda very well
+2. Basic understanding of models and why certain thing works
+Very chill proctor"
+8/6/2025 18:58:34,,8/6/2025,level1_v9,"what is R2 score
+what does target encoder did(since i used target encoder in my notebook)
+what is robust scaler
+why did you use lightgbm
+what is boosting",explain your code well and she focused more on eda part
+8/6/2025 19:20:16,Vaibhav,8/6/2025,Level1_viva14,"With farmous proctor level1_viva_14 (10 AM-10:30 AM)
+-> i found relax chill proctor in viva, no idea afterwards...
+1. id card, kaggle notebook. 
+2. Directly show EDA and explain what RESULTS you get.
+3. Preprocessing (why you have choosen this) 
+4. Explain Pipeline, i have done with column transformer, why you have done this?
+5. Feature engineering .
+6. Explain cv and scoring parameter in grid search cv.
+7. Show all models, which models done best what parameter you have decided for that model (i have used r2 score).
+8. Other that r2 score which parameter you used to identify model performance.
+9. Feedback : make a bar chart for l2 viva, for 3 models with there r2 score or other scoring things. Good to go for level 2 viva, it will be more theory base questions from MLT...","You should have full knowledge of what you have written, level 1 will be easy."
+8/7/2025 12:52:42,Muskan Periwal,8/6/2025,Level1_viva118,he asked me to show me ID card and then asked me to explain my notebook and after that he said All the best for viva 2. ,Chill and Be confident
+8/7/2025 13:19:03,Shiva Kumar,8/7/2025,level1_118,"first explained my whole notebook
+he told his opinion on my note book
+asked the baseline model 
+then he went through my parameters and asked in depth questions, and helped me in answering the question.
+like: in rf parameters I used min_samples_split and min_samples_leaf. so he asked
+if a node has 7 samples would it split or not, if yes why?, if no why?
+
+a lot knowledgeable person. and helps you if you have any doubts. friendly person","understand the hyper parameters with their use. also know these terms like:
+What is a weak learner and what are parametric models"
+8/7/2025 14:06:47,,8/7/2025,level3_29,"1. What you have learned in this project?
+2. What is reinforcement learning?
+3. What is supervised and unsupervised learning?
+4. How does KNN algorithm works?
+5. Write code to import iris dataset, use KMeans algorithm on it, and plot the clusters formed.
+5. Write code to import iris dataset, use DecisionTreeClassifier on it, and plot the decision tree.
+6. Name 3 activation functions in Neural Network.
+7. How many hidden layers can Neural Network have?
+8. What happens if we increase number of hidden layers (I said that model becomes complex and can have the risk of overfitting)
+9. Bagging vs Boosting
+10. When applying ensemble method is not recommended?
+11. What is the solution of overfitting?
+12. What is the solution for underfitting?
+13. What is oversampling?
+14. What is SVM
+15. What is One vs One and One vs All approach?
+16. Apart from regularization, what are some other approaches to deal with overfitting.
+","Study about Decision Trees and clustering algorithms like (KMeans, KNN). You should know how to write code to train these models and further work with trained model. For example, you can be asked to display the (node_count) etc, also, you should know how to plot the final trained decision tree. Similarly for KMeans, you should know how to train it, some basic hyperparameters such as number of clusters, max_iter, etc. Also plotting the clusters can be asked. Apart from this, prepare the models you have used very well, check out basics about Neural Network and activation functions."
+8/7/2025 15:06:06,Anonymous,8/7/2025, mlp_level1_viva8_MLP_Viva,"1. Explain EDA of your notebook
+2. Explain preprocessing pipeline 
+3. Explain hyperparameter tuning
+4. Can you use Logistic Regression to predict amount of rainfall?
+5. If model is overfitting, will you increase or decrease n_estimators for Xgb? 
+6. Mathematical range of R2 score & reason for negative r2","1. Be prepared to explain any EDA, preprocessing step
+2. Be prepared to explain the model building approach - train validation split, etc. 
+3. Read up on r2 score, HPT parameters and basic loss functions"
+8/7/2025 17:06:04,,8/7/2025,Level1_116_MLP_Viva,"1. Introduce yourself.
+2. What is the Problem Statement you are working on?
+3. Explain your notebook.
+4. Have used any pipeline?
+5. What do you understand by Imputation?
+6. Have you did the Hyper-tuning? If yes, then show it.
+","1. Keep your notebook clean.
+2. If you have used LLMs for coding, do not present like you have copy-pasted it. "
+8/7/2025 18:19:44,Utkarsh,8/7/2025,Level1_viva18,"* Only asked me to explain the feature engineering and model training
+* No questions on parameters or EDA or anything else.","Explain well and be calm, the proctor is chill."
+8/7/2025 18:49:22,Anjali Malviya,8/6/2025,level1_Viva7,"1) Show Student ID
+2) Explain notebook ( I took 15 mins)
+3) Then, Which encoding method you used ?
+4) Difference b/w Ordinal and One Hot encoding ?
+5) What is HPT ?
+6) D/fnce b/w gridsearch CV and Randomized Search CV
+
+End ------Overall Nice",Just be well known of you notebook
+8/7/2025 20:12:26,Preethu Johnson,8/5/2025,Viva_9,"1. Walk through the notebook
+2. Which model was selected finally?
+3. Which hyperparameter tuning did?
+4. Compared the models after tuning?
+5. Which encoder used?
+6. Label encoder is having some issues (i don't remember exactly what it was), Still why that was used?
+7. In the hyperparameter tuning, what are those parameters exactly? n_estimators, max_depth and all?
+8. What is boosting?
+9. What is code to categorize columns to categorical and numerical?
+10. What is the code to drop columns?
+11. What does axis=0 mean in that code?
+12. What visualizations are used in EDA?
+13. Pick any one and give the insights obtained from it.","Mam is very sweet, patient and gives enough time to think and answer. I received 9/10 even though i couldn't answer all the questions. Just concentrate on presenting the notebook well. If that presentation went well, everything is good."
+8/8/2025 12:07:23,Prince Sant,8/8/2025,Level2_124,"1. Introduce yourself
+2. how was your experience in this course
+3. explain your notebook in 20 min
+4. overfitting vs underfitting why this happens how can we resolve this
+5. what is your beat score and what you think you can do to improve this
+6. what is KNN and Kmeans Algo and how they are different
+7. Explain Decision Tree
+8. Explain What is hyperparameter tuning and types of it
+9.  Asked to Code ""take a datset of your choice and perform RFE to select best 2 festures""
+
+",He is very chill proctor 
+8/9/2025 15:49:58,,8/9/2025,Level1_viva9," Explained my notebook completely in detail. In between she asked questions 
+1. Did you use scaling and imputing? What is standardscalar
+2. Did u do Model comparison? What did u infer from it
+3. What is boosting
+4. What did u understand from the visualisations
+4. What is verbose
+5. Xgb code 
+6. Standardscalar code for target variable 
+","She was Lil late for my viva, but overall very sweet. Hope I pass 🙏 i couldn't code much but answered all questions"
+8/9/2025 20:25:01,Arunkumar,8/9/2025,mlp_level1_viva9,"1) Asked to explain the notebook from the EDA part ( i took only 5 mins , she didn't say anything)
+2) Asked what are the models used
+3) Asked to code RandomForestRegressor( import, create object, fit and predict (without dataset just to verify that you know))
+4) Asked what are the feature engineering you performed
+5) What is StandardScaler?
+6) What is r2_score? 
+7) Insights that you got from the three models you used","She's sweet, She started with asking to present the notebook.
+I didn't presented that much, i stuck in between but she didn't interfere or anything, She stayed calm and allowed me to take my time to present.
+Then she asked the questions that i mentioned above. Thats all , viva went only for 15 minutes. Good Experience!"
+8/9/2025 20:43:51,Syed Ali Mujtaba,8/9/2025,level1_116,"level1_116:
+Just asked me to explain my entire notebook.
+Gave feedback.
+Recognized some code which I copied from LLM.
+Just asked me to know properly whatever you copied and be ready to explain in the viva 2.
+
+Very nice person.",
+8/10/2025 13:21:22,Anjali,8/6/2025,level3_29,"What is Machine Learning
+Types of ML
+What is supervised and unsupervised, and what is semi supervised , have you implemented reinforcement learning anywhere
+Explain notebook in 5-7 minutes (some small question while explaining notebook).
+import iris dataset, find size, append same data set again within it (new data set should be of size (300,4))
+split the data into train test, train Decision Tree and plot Tree
+How root nodes are decided
+what is pure and impure nodes
+what is the height of decision tree, and what is the depth of decision tree
+difference between tree and graph
+which criterion are you using, what is the range of gini index
+apply kmeans and find the number of cluster which gives the highest accuracy
+what this graph is called (I had drawn the elbow plot)
+differentiate between machine learning and  and deep learning
+difference between bagging and boosting
+create a random matrix of dimension (1000,5) each sample point having value between 0-1",He repeats question.
+8/10/2025 16:47:11,,8/10/2025,Level3_29,"1. Introduce Yourself
+2. What are you working on? Explain your project
+3. What is the outcome of your graph(Purchase Value v/s Page View)?
+4. How does your correlation map relates to your project?
+5. Why have you chosen 5 features for the correlation?
+6. Explain LightGBM Model.
+7. What are the types of Machine Learning?
+8. Explain each of them.
+9. Load new notebook.
+10. Load Iris Dataset.
+11. What is the dimension of the iris dataset?
+12. Split the iris dataset into 70:30 ratio.
+13. Perform Decision Tree Classifier.
+14. Find the precision value.
+15. What do you understand by precision value and recall?
+16. What is F2 score?
+17. What is SVM?
+18. What is PCA?
+19. Give examples of PCA that use classifier.
+20. How does PCA works?
+
+
+",Revise the whole ML Theory☠️
+8/10/2025 21:49:55,Vaibhav,8/10/2025,Level3_29,"1. Show your id card, introduce yourself.
+2. How machine learning and data science are you implementing?
+3. What was goal of your project? means what your final result was? (Idk i said *Predicting purchase value on the bases of clicks and counts* 🥲)
+4. Start presenting your notebook.
+5. eda part was going, suddenly he said open a new notebook 🥲🥲, load digits set, split them into 70-30.
+6. Do SVM on training data
+7. Tell accuracy, precision and recall. I displayed confusion matrix, classification report.
+8. Which correlation you have used? (I said no idea 🥲)
+9. Do same things with decsion tree, same all things.
+10. I have done showed classification report, proctor: now tell me time taken by both models?
+11. Tell me how SVM internally does? (I said fullform some thoery and idk🥲)
+11. Tell me pca (i said fullform theory)
+12. How he reduce features (i sad idk🥲)
+13. Do you knwo any actiovation layer or used. (I said in one of the previous project i have used ""relu"" layer and dense layer)
+14. He asked what is input and output range of that layer . (I said idk 🥲 continuously explaining prev project 🥲🥲)
+15. Ok my said up u can leave.","You should know what you are saying, and repeated theory questions. All the best"
+8/11/2025 18:02:41,,8/8/2025,They didn't send me any proctor id on mail. Only gmeet link,"Level 1 (MLP_Viva_Level1)
+
+- He was 13 mins late
+- Asked to see my ID
+- Walk through the notebook (around 10-12 mins)
+- Listen patiently.
+- Asked how did i manage the large dataset ?
+- Asked how to improve the r2_score ?
+- Suggested me to use unsupervised algos like KMeans. Said I did well.
+",Very sweet and polite guy. Just explain your notebook properly.
+8/11/2025 20:34:03,Utkarsh,8/11/2025,level3_29,"1. Explain the notebook
+2. and based on the correlation map whether I have dropped the values which were highly correlated or not and if not why?
+(That's it and after that I asked him the few questions)","chill guy, asks questions based on theory and notebook only."
+8/12/2025 12:10:29,Bhargavi V,8/8/2025,Proctor ID was not mentioned (MLP Viva) level 1,"1.visualization techniques used in the notebook 
+
+2. cross validation 
+
+3. Then he asked me whether it's over fitting or under fitting 
+
+4. Since I used linear regression model, he asked like this if there are redundant clns without touching the data how can you drop the cln
+
+(I felt bit tricky) We need to use regularisation 
+
+5. What can we do for outlier",Go through MLT concepts
+8/23/2025 9:50:58,,8/12/2025,level3_29_MLP_Viva,">first asked me to introduce myself a little and talked about my intern and 2nd degree a little 
+>then asked me what do you understand by problem statement , what can u infer
+>how you approached the problem 
+>what you did in preprocessing 
+>suppose you are in a company and this is your company project what 4-5 insights or recommendations you'll give to increase the sales 
+>then moved to notebook preprocessing part explain 
+>then explain charts
+>then how i handled null values and other columns (like encoding , scaling, imputing etc.)
+>which models i used (i used xgb,lgm,rmfr)
+>what is column transformer use (because i used that in my notebook)
+>then asked me to show and explain complete pipeline functions as i created a function for every step
+>i explained preprocessing , model defining , model training , result , saving best model and everything i did during my model training
+>then he asked me theory questions like what is impurity , ginnie impurity , explain each of your model params , l1,l2 , bias , variance , bias-variance tradeoff, xgb and lgm difference their indepth working , sigmoid function , linear regression , logistic regression , loss function and its use , loss function of rmf , lr ,entropy , pca , how pca works,what pca does , is pca supervised or unsupervised , svm ,gradient descent (batch & stochastic) , grid search vs randomsearch ,bagging vs boosting , precision , recall, accuracy , types of ml, kvm ,  kmeans ,depth of decision tree , how to prevent overfitting 
+>then asked me to load wine dataset , check its size after splitting , then find out top 5 features (i used mutual_info_regression) as i used that in my notebook also and he allowed , he also allowed me to use the docs if i want .
+That's all and then he told me you can ask any question for me if you have , i asked how to improve to industry standards so he gave me some tip and then I left ","Just go through the previous topics people shared here and just know about your notebook , and just be confident even if you don't know answer , it really matters in my case i didn't know bias-variance and acted little hesitant , and in following 2-3 question as well even though i answer correctly i was hesitant like unsure if right or wrong , he told me to improve that as well even in my feedback he wrote this and i had to loose marks for this , so just make sure to be confident , Gook luck.(one more thing my proctor who joined was different from the one mentioned in meeting link but still most questions were same , so ya if you are good with your basics u are good to go ) "
+8/23/2025 9:57:18,,8/7/2025,mlp_level1_viva8_MLP_Viva,">Introduction and little chitchat
+>show id card
+>start with notebook explaination , didn't interrupt even once
+>asked bagging vs boosting , col_by_sample feature use , what is n_itr , verbose , random state and explain charts 
+>told me to practice coding questions and models in depth 
+>then asked if i had any question , i asked industry related stuff , gave me a few tips and gave some good feedback like good work i can see your hardwork and viva ended   ","he was nice and polite , just make sure to know about your notebook thoroughly and be confident , he told me people use gpt to make their notebook and don't know anything those kind of people he rejects and those who know what they are doing he is fine with little ai help then.  "
+11/13/2025 16:32:17,your Classmate,11/13/2025,,He just asked me to run through my notebook. Explain each and everything nothing else,"Do not use library that is not specified. I used optuna and was told to remove it
+"
+11/14/2025 14:38:40,,11/14/2025,,"Explain EDA part
+Explain Preprocessing Part
+Explain the models used & training part
+Show the used dataframe for training 
+Questions based on the columns and features
+Time series based model features and training 
+Encodings for datetime objects",
+11/14/2025 22:35:48,,11/14/2025,level1_viva8,Asked few questions about auto correlation and EDA. finally gave me some suggestions.,"focus on related topics and eda, if time series then basics about time series modelling"
+11/15/2025 0:34:59,,11/14/2025,mlp level1,Write pipeline code with standard scaler and onehotencoder,
+11/16/2025 13:58:13,,11/16/2025, level3_31,"Tell me something about yourself
+Explain the notebook
+What are Mean Median Mode in Imputation and when to use what
+Explain any model used in your notebook
+What types of Charts used why, and when to use what type of chart
+Usage of AI in the project and where
+What are your plans in the future for jobs / studies",
+11/16/2025 16:50:34,Vignesh,11/16/2025,mlp_level1_viva3,"- Explained my notebook
+- Asked why I chose my preprocessor and if i considered any other strategy
+- Was asked to code preprocessor with mean imputation for numerical and mode imputation for categorical 
+- Asked if I had more time, what I would have done to  improve model performance","Just explain what you did with justification
+Comment everything in your notebook with your justification also"
+11/20/2025 16:27:09,Sourasish ,11/20/2025,mlp_level1_viva9,"1. First asked for ID, then asked me to present the notebook 
+2. After that she suggested me in the model section, to put both r2 score of train and test set
+3. Then asked basic questions from scaling and encoding, bagging, boosting, their comparison, whats r² score ? Etc. 
+
+Nothing crazy.","She's so polite and listens everything. She asked mainly theoretical questions. 
+Just prepare the base knowledge."
+11/21/2025 12:09:13,,11/21/2025,Level1_14,None,"Tips for level 1: Just go all out on explanation and try to go as detailed as possible cause the proctor had no time to ask questions to me cause of that.
+
+Got this feedback for level 2: More theoretical viva, be thorough with MLT, practice coding as much as possible, they can give you one entire dataset and ask you to train a model according to it."
+11/21/2025 20:01:26,,11/16/2025,leve2_74,"Exactly the same questions asked by him previously which are present in this form
+- like what is hyper parameter tuning, random state=42, the house price one, data pre processing
+Wasn't even paying attention to my nb explanation and didn't ask me to explain the nb fully
+No coding",Just prepare the questions present in this form and your nb (notebook) 
+11/21/2025 21:15:23,Helper,11/21/2025,level1_viva1,"first she asked for ID 
+then ask to explain the notebook within 15 minutes (although i did it fast but she interrupted in between to ask questions related to code so it went around 25 minutes)
+she asked what is randomsearch ? 
+what is n_estimators?(basically all the things you used in model)
+which encoder you used and why ?
+why randomisedsearchCV not the others ?
+so understand you notebook throughly ... each and every code
+and the reason why u used certain things",she is very calm and wont be asking any thing much difficult .... just know you nb very well
+11/21/2025 21:39:19,maneesh,11/20/2025,level1_9,"introduction
+boosting and bagging
+encoding and scaling
+hyperparameters
+feature engineering",be calm
+11/21/2025 23:38:39,,11/21/2025,level1_viva1,"1. explained my notebook in detail
+2. i used randomsearchcv she asked why not gridsearch
+3.she asked me to explain my correlation map
+4.asked me questions about lightgbm
+she will only ask questions from what you have done in the nb, she is very chill no need to panic ",
+11/22/2025 9:09:33,Nitin Singh,11/20/2025,,"1. Walkthrough the code
+2. What is scaling? why used Standard Scalar?
+3. Difference between Label Encoding and One hot encoding?",Spend sometime explaining why n your notebooks and check the alternatives before exam!
+11/22/2025 14:49:07,Aadi,11/21/2025,Level1_viva7,"Explain everything in detail so that less time remains. He asks 3-4 questions based on your hyperparameter tuning, encoding, difference between label encoder and one hit encoder, differentiate gridsearchCV and randomsearchCV.",
+11/22/2025 14:50:09,Archie,11/22/2025,L2_123,"- Start with the problem statement and objective of the project (I had added it in my nb itself)
+- frm imports she asked, wht's matplotlib n seaborn used for 
+- I was explaining my eda plots, had a summary cell of eda, then which features i crated frm them
+- meaning of simpleImputer
+- explain pipeline, columntransformer
+- wht's train test split
+- then as i was explaining my code file, she was asking questions like, difference bw bagging n boosting since i had used random forest n xgboost
+- difference bw xgboost and lightgbm","Chuck all these questions to some ai and get a concise list of questions to prepare for before your viva. Include these 2 things in ur nb -- problem statement section, eda summary section"
+11/22/2025 14:59:25,Halley,11/21/2025,Level1_viva7,"He asked me to start explain my notebook and explained it about 25 mins , then he just asked simple qs like 
+1) which enocder you have used.
+2) Have you tried GridSearchCV HPT on your best model.
+3) What do you mean by MSE.
+4) Show me your graphs ","He was chill person , try to explain your notebook in depth each line so it consumes more time and so the proctor doesnt have any time or qs left to counterquestion you . "
+11/22/2025 21:18:27,Ramu,11/22/2025,:mlp_level1_viva9_MLP_Viva,"Explain notebook I explain notebook 
+And she intrempt me ask questions 
+
+She ask me theory questions 
+Ensemble what encoding you use
+Ask ok ridge regression 
+
+She give me task of 
+X=[green ,blue,white,blue,green]
+Convert by label encoding how it looks like 
+In 20 minutes complete 
+She give suggestions learn theory more","Clear theory questions 
+Clear little bit coding concepts also 
+"
+11/23/2025 11:31:56,Ananjay,11/21/2025,level1_viva7,"Show me pipelines in your code?
+u used ridge or random trees?
+Difference between ridge and random trees?
+show me EDA",Make a pitch of 30 minutes of explaining your code. dont give them time to ask any question
+11/23/2025 12:03:41,Drishya Garg,11/21/2025,mlp_level1_viva7_MLP_Viva,"1. Explain your notebook. 
+2. Asked about overfitting and underfitting ",Know everything you have done in your notebook. 
+11/25/2025 0:07:02,maneesh,11/22/2025,level2_123,"-know you code and functions or parameters you wrote
+-learn about libraries
+-learn very well about the models you used","-while presenting talk only about the terms or topics you know as she may ask them to explain in between
+- she was nice "
+11/25/2025 13:19:20,-,11/21/2025,level1_viva1,"Level 1
+1) Asked to explain notebook.
+2) Which model is best and why?
+3) Questions on visualization.
+4) How I handled missing values - both (categorical and numerical columns)
+5) Hyperparameter
+6)what is Standard Scaler and OnHotEncoding?",Overall she was good and friendly.
+11/25/2025 20:57:37,,11/25/2025,Level1_110 ,"Detail explaination of code 
+Accuray
+Precision 
+Recall
+Unspervised and supervised difference
+Algorithm explaination in depth
+He focuses on theroy basic theory
+Overfittng and underfittings techniques",
+11/26/2025 21:02:56,Seshadri ,11/26/2025,mlp_level 1_viva2,Explain your notebook ,"Dont worry guys, he is so noice, just explain notebook properly "
+11/27/2025 17:30:51,Infinity(hin),11/27/2025,mlp_level1_viva2,"Level 1
+
+- give intro about yourself
+- present your notebook.
+- gave 1,2 suggestions at the end.",just explain in detail - he won't ask much questions...
+11/27/2025 20:48:01,,11/27/2025,L2_74,"Level 2 Viva
+1. What is Data Preprocessing and steps for it?
+2. What is feature scaling?
+3. Given you have house prices and you want to predict the house prices for 10 years later, what model will you select and why?
+4. What is Hyperparameter Tuning? Difference between GridSearch and RandomisedSearch
+5. What is random_state = 42 and why 42 specifically?
+6. What is learning rate in HPT?
+7. What is the difference between XGBoost and Linear Regression?
+8. What is dimensionality reduction? What is reducing in it?
+
+No coding round","If you get this proctor, be sure to see all the questions asked by him and explain them as thoroughly. Even if you think you are wrong, speak so confidently that he won't be able to follow back."
+11/27/2025 22:38:06,,11/27/2025,Level1_110(this was level 2 viva),"1. First asked tell me about yourself 
+2. Explain notebook 
+3. I was explaining for 40 minutes, he stopped and said ""that is enough, u have explained in detail""
+4. Asked to show my correlation heatmap and tell me wat it means
+5. Asked to show histogram and wat it means
+6. Asked if u can solve this regression problem using classification 
+7. Finally asked future plans","All in all very good proctor, friendly, make sure u spend max time in explaining notebook so at last he asks less questions, and know about your graphs and charts, no coding questions "
+11/28/2025 13:58:03,Mujahedul Islam,11/26/2025,level1_110_MLP_Viva,"He is a very supportive person. We had a very good discussion. First, he asked me to introduce myself, then he asked me to explain the notebook. He listened quietly without interrupting. Since my explanation went on for almost 50 minutes, he stopped me in between and asked me to directly explain the final model. He didn’t ask many questions. The few he asked were:
+1. How ARIMA works
+2. The parameters of ARIMA and their meanings
+He didn’t ask more questions because I had already taken a lot of time explaining the notebook. Instead, he appreciated my work and gave suggestions to improve the score. Overall, it felt like a very friendly discussion.","Explain each and every line of code in detail. While explaining, create your own questions such as “Why did I do this?” and “Why not do it that way?” so the examiner will have few questions to ask because you have already covered them. Take as much time as you need so that, by the end, the examiner has very little time left to ask questions and most of their questions are already answered in your explanation."
+11/28/2025 22:08:01,,11/28/2025,level1_110,"1. Introduce yourself 
+2. Explain your notebook
+3. What is the difference between bagging and boosting?
+4. Gave me really good suggestions for improvement and things I missed out.","Know your notebook and your code properly and explain it well. Explain insights from EDA. 
+Examiner is very nice and will give good suggestions. He'll also answer any questions you have and you may ask for suggestions. For the theory part, know basics of everything, especially ensemble methods."
+11/30/2025 13:10:14,Anmol,11/30/2025,level_1_110,"what is random forest, decision tree, what is lightgbm, xgboost, how does each model works, bias - variance tradeoff, gave me suggestion how to improve all that. what is r2 score and what is adjusted r2 score,
+what is l2 and l1 regularisation.
+how does decision tree decide what will root node",take as much time you need to explain. less time less question
+12/1/2025 14:54:02,Riddhim,12/1/2025,mlp_level1_viva14_MLP_Viva,"As everyone before me said, The proctor really is a chill guy
+my explaination of notebook went for a long time, so there was less time for questions
+1. I explained most of his asked questions while explaining
+2. asked about what to do if overfitting happens
+3. if the correlation is high then will it affect the predictions
+
+gave feedback and some tips for level 2",Just have good understanding of your notebook and explain confidently.
+12/1/2025 15:10:39,,11/28/2025,,"(1) What do you mean by mean and standard deviation?
+(2) Why we use both seaborn and matplotlib?
+(3) Explain hyperparameter tuning.
+(4) Differentiate between a parameter and a hyperparameter.
+(5) Explain XG Boost and Knn.
+(6) How do you performed imputation.
+(7) How you  handled outliers.",
+12/1/2025 15:25:11,,,level1_viva16,"1. He asked to give a walkthrough of the notebook and focused on explanation of EDA and feature engineering
+2. Asked to explain each of the terms in hyperparameter tuning and cross questioned about that part only.",
+12/1/2025 18:21:58,,12/1/2025,Level1_viva7,"He was good, listened to all explanation, after that asked some basic questions. Like
+Which encoder you have used? 
+Difference between OHE and Label encoder? 
+Which scaller you have used? 
+Did you used pipeline, how? ","Just prepare you notebook properly. Explain all the line of codes you used. Try to explain for 20 to 25 min, then you will get very less question to answer. "
+12/1/2025 18:33:52,Antonay,12/1/2025,mlp_level1_viva2_MLP_Viva,"Level1_viva2 
+
+Nice guy. Listened to everything calmly. I just spoke for 25 mins( need to accept I have fluttered in feature engineering). Gave few suggestions. Asked me to complete my explanation of notebook in 15 mins in L2.
+
+Just asked me to add more graphs for model comparison",Complete your graph in 15 mins. Time matters. All the best and be the best.
+12/1/2025 18:49:58,jyoti,12/1/2025,level1-viva18_mlp_proj,id card after that i started notebook explanation then he said show me the which data u have not used after that he said good job u can leave meeting overall chill proctor,just confident about ur code and also do explanation in deep so most probably they don't ask any question
+12/2/2025 16:56:06,,12/2/2025,mlp_level1_viva3,"Explain the notebook 
+Simple questions from imputation and encoding 
+If you had more time what will you do how will you improve the score
+","Spend maximum time explaining the notebook, he is a chill guy "
+12/2/2025 17:46:45,gang_leader,12/2/2025,mlp_level1_viva9,"1. show your id.
+2. present your notebook ( i took long time to present. explained theoritical details of the models i choose, feature engineering etc. basically i tried to explain everything so that there would be no need to ask any questions)
+3. what is r2 score 
+4. formula for r2 score
+5.  best of luck for viva 2
+6. do you want to ask anyting about viva 2
+7. i asked about hyper parameter tuning since it was the onlypart of code that i had commented out. ( she said you can run your notebook and keep the output pasted in markdown. 
+8. bye bye
+",proctor is chill. Voice is calming. Though you can get another proctor who is male with same  id so no idea how proctor id works.
+12/3/2025 12:20:21,Shrinidhi Kannan,12/3/2025,Level3_20,"No questions asked, I just explained the code end to end. He was happy with the overall explanation.","Be prepared, know your entire code and be confident, he was a cool person. Nothing to worry about."
+12/3/2025 16:06:39,,12/3/2025,Mlp_level1_viva7,"1. What you have done for missing values
+2. What you have done for encoding
+3. Difference between label encoder and one hot encoder",He was chill. I took so much time in explaining code for questions not much time was left so he asked just 2-3 basic questions
+12/3/2025 16:10:32,shabari,,mlp_level1_viva2_MLP_Viva,"1. Explain about yourself
+2. What was the project about
+3. What are the difficulties you faced while doing the project
+4. How did you overcome
+5. Explain about the models you used
+
+You do the above all by sharing your notebook and explaining about the code you wrote","He was chill guy!, I explained as much as i can in the notebook. In 20min I was able to show only the EDA and feature engineering only. So in the last 5-10 min he himself said what are the models you used which gave you the answer, did you use pipeline and scaling options?
+
+He said that is enough for Viva L1, for L2 it would be like OPPE. That is all"
+12/3/2025 16:43:07,infinity(hin),12/3/2025,level3_20,"level 2
+
+viva went super chill... - proctor is super chill.. - he would ask some questions related to your notebook - and that sit.
+
+Be chill and give the viva, acha hi jayega.",just take a chill pill.. :))
+12/3/2025 17:52:34,Antonay,12/3/2025,level3_20_MLP_Viva,"Looking like a kind person. Completed my explanation in 20 mins.
+
+1)Asked me questions regarding date construction (feature engineering) which I had done in my notebook. 
+2)Also I have explained parameters under my best model in my notebook. Asked for suggestions he said ok with things. 
+3) Asked me what Timeseries based model I had in my hand for prediction. I said ARIMA.
+4) How many models have been treated with HPT. I had done only one for the best model. For the remaining models, if you have you can do and can show, don't do it in last minute.","Also suggested me to use SARIMA. Luckily I had ARIMA in my hands. Run ARIMA freshly if you haven't tried it yet, provided you have an hour atleast"
+12/3/2025 17:59:00,,,MLP Level 1 viva 3,"
+1. Asked to explain notebook 
+2. Asked me to code, fill missing values of latitude with median of latitude 
+
+3.Gave me some suggestions.",
+12/3/2025 18:42:07,sumit ,12/2/2025,level1_viva18,explain your notebook,"if you want , he don't ask any question, 
+try to waste starting 5-10 minutes, for the next 20-25 minute just explain the whole notebook in detail. the examiner is chill, just explain very well  "
+12/3/2025 19:50:59,Charmika,12/3/2025,mlp_level1_viva3,"1) show Id
+2) present notebook (presented line by line for 25 mins)
+3) why did you use this particular model?
+4) what if you had to impute mode instead of median in simpleimputer, what changes would you make in your pipeline?
+5) explain the process of how you imputed numerical values in the pipeline?
+6) what would you have done differently if you had more time?
+7) do you need any feedback or suggestions from my side? (gave feedback to learn in-depth of your notebook because level 2 proctors check if you have in-depth knowledge and asked to learn ml theory)","Just explain the notebook in detail (take more time). very sweet guy, waited patiently till I explained the whole notebook. Chill, you got one of those good examiners, ace your viva, be confident"
+12/3/2025 20:30:59,Pruthvi Prasad S,12/1/2025,mlp_level1_viva7,"He's a super cool person! 
+Asked me for ID verification
+Then asked to explain Notebook
+Didn't asked any question
+
+At end he gave his suggestions where i can make improvements
+That's it",Just make sure you know every cell code and overall Notebook
+12/3/2025 21:37:08,Shreya,12/2/2025,mlp_level1_viva2,"First was the welcome to the mlp viva 
+Asked for id, then introduction, what problems did u face in this project, what did u found, and brief summary about the process
+
+Next was to explain the notebook
+And then wirte the code for pipeline",very chill guy just explain code properly and give a look to api importing as well
+12/3/2025 21:47:43,Saniya Naaz,12/3/2025,level1_viva1,"1. Explain the notebook.
+2. How you handled missing value and what imputing technique.
+3. What you used - gridsearchcv or randomizedsearchcv.
+4. how many models you used.
+5. how many EDA graphs.",She is cool. Explain the notebook and prepare the questiions i have written. thats it
+12/4/2025 10:14:51,Manish kumar,12/3/2025,Level1_118,"1.Go through your notebook.(Which I explained briefly not line by line and it took me approx 8-10 min.) Try to take more time here then he will not ask much questions because time limit is 30 min for viva.
+2. He asked me random questions from notebook as we have enough time left. 
+3. Asked me about why I used only boosting models.
+4. He then asked me a scenario question based on correlation. Say if two columns have 0 correlation, then will they be collinear or not?
+5. He then asked me to show any histogram graph if present.
+6. He asked what is bagging and boosting?
+7. What are week learners?
+8. Any preprocessing you did?
+
+ ","I have many wrong answers but he was cool and also suggested some topics to look after viva, for viva 2 preparation."
+12/4/2025 16:06:27,,12/3/2025,level1_viva14,"1)explain your notebook in detail
+2)explain the models u have used
+3)is ur model overfitted or underfitted, what are those and how did u tackle them
+4)did u use grid cv search explain abt it
+5)some hypothetical basic qns about scaling uses 
+6) linear regression limitations","1) kill most of the time with explanation
+2)be super confident, he is really a good and chill person
+3)just point out all the section in ur code wrt rubrics..he marked me ""no"" for two rubric points though I had them in my notebook
+4)might miss lot of ur points so be loud and repeat important points twice
+
+"
+12/4/2025 19:31:50,Anshu Sharma ,12/3/2025,Level3_20,"1 introduce yourself 
+2. Open your notebook and explain 
+3. Just give me some suggestions 
+Very chill guy ",Just explain our notebook in very well way or bhai logo kuch n h project me sb ho jata h bs thoda sa effert Dal diya kro 
+12/4/2025 19:35:08,Anshu Sharma ,12/1/2025,Level_1 viva2,"Introduce yourself 
+Explain your notebook in breafly 
+Write a pipeline code
+Train a random forest model 
+",Just practice to write code 
+12/4/2025 22:26:02,,12/4/2025,Level 1 proctor 9,"Writing code
+Importing folders
+Imputers
+Pipelines
+R2 score
+Models and types
+Logarithmic conversions
+Scalers",
+12/5/2025 10:20:51,Ashmit ,12/4/2025,level1_viva18,"ID Card Verification 
+Then immediately to the notebook. Asked me to go walk through the notebook 
+At the end just asked what is TSCV, why I used it, what is the CV in TSCV, why can the dataset be considered a time series data, why do we do cross validation, and that's it. 
+Super cool, he just listened throughout as I explained my notebook. ","Just know ur notebook thoroughly, and why have u approached the problem the way u have. He's super chill."
+12/5/2025 12:18:56,manish,12/2/2025,mlp_level1_viva14,"very chill proctor
+1. asked for notebook explanation
+2. overfitting and underfitting
+3. hypertuned parameter","no need to worry , just through your notebook properly"
+12/5/2025 14:06:01,Aryan ,12/4/2025,mlp_level1_viva9,"Firstly she asked me to show my id card and then told me to start presenting my notebook. While I was presenting she didn't interrupt me. After the presentation she asked me to show my show and asked if this score is through ensemble learning then she proceeded with the questions.
+
+1) What is learning rate? A higher or a lower learning rate is better and why ?
+2) What is boosting? What is the algorithm of boosting?
+3) What is gradient boosting?
+4) what encoder have you used?
+5) what scaler have you used?
+6) have you used any pipeline? Why or why not?
+7) from which library of sklearn you import r2_score, Onehotencoder and xgboost 
+
+The viva was only of 12 mins and she didn't ask me to code anything ","Explain the notebook very thoroughly 
+The main focus should be on the eda, preprocessing and hyper parameter tunning part.
+Know you graphs and their insights "
+12/5/2025 16:16:13,,,level2_123_MLP_Viva,"1. Explain about the project, what you did and how you achieved your cut-off score. In between I will keep asking questions about the approach.
+2. What have you done in EDA
+3. Why have you used Box plot ?
+4. What are the different hyper parameters used in RF and why? why not these ?
+5. What is the difference between XGB and RF what is the result ?
+6. What are the different hyper parameters used in ARIMA","She was chill, kept asking questions when she had doubts. 
+It was a 1-hour call, I spoke about my code and notebook for the whole 1hr and in between, there were questions purely based on notebooks and nothing else.
+They check for the sequence of flow, how you arrived here, why you use these feature engineering when you have done EDA for this stuff. How did this result in the models?"
+12/5/2025 17:50:26,Daiwik,12/2/2025,mlp_level1_viva18_MLP_Viva ,"He is very chill guy simple question like about 1. what you have shown in graph, 
+2. skewness about target variable, 
+3. Some detail about EDA. 
+4. It's important to do hpt he ask to show the code ok.
+5. Ask to show pipeline",Make sure to do deep knowledge of EDA
+12/5/2025 19:52:30,,12/5/2025,Level 1 110,"A lot of questions digging into the basic understanding of ML and everything - even eigen vectors, PCA, etc. Do not leave any room for error. ","Prepare concepts really well like dimensionality reduction, regularization etc"
+12/6/2025 11:44:17,Shibla Nasreen P,12/5/2025,level3_20_MLP_Viva ,"It was my level 2 , chill proctor , he was listening patiently through out my presentation, and asked one question only at the end of my presentation on hyper parameter tuning , after answering it he give one suggestion, thats all .","Be prepared with your notebook and present it well, no need of any tension about viva. assure that you know your project perfectly. All the best guys "
+12/6/2025 20:29:11,SS ,12/6/2025,Level1_110,"1. Talked a bit about myself and my degree, knowledge, work, CG, score.
+2. Explained the notebook.
+3. Bagging-Boosting 
+....i) Overfitting-Underfitting
+....ii) Bias-Variance
+4. Detailed dive into Overfitting - techniques to reduce it
+....i) Bagging
+....ii) Increase Regularisation 
+....iii) Decrease Complexity
+5. Difference between SGD and GD
+6. KNN - (at what kind of values, there is overfitting and there is underfitting)
+7. Difference between metric and loss.
+8. Understanding of Lag and Rolling.
+9. Measure to take when preprocessing and EDA is done, yet no. of features is too high -> Dimensionality Reduction is the answer.","1. Amazing proctor, don't be scared by this huge question list. It was him helping me in every step of the question, and giving suggestions on measures we take to handle such problems.
+2. Got proper help and hints, when got stuck; also encouraged and pushed me towards the answer in every step.
+3. Will also help you ease out when you seem too scared by joking a bit."
+12/7/2025 7:58:05,Shravani,12/4/2025,mlp_level1_viva18_MLP_Viva,"Asked me to go through the nb
+was silent the entire time 
+then asked me one question
+""why did you use rolling mean""
+then I answered
+then left",Be prepared with your own notebook. You must know the reasons and concept behind every code.
+12/7/2025 20:11:31,,12/7/2025,Level3_28,"1. Academic Background 
+2. Explain Problem Statement and Datasets
+3. Explain entire notebook
+4. Insights from graphs
+5. Correlation
+6. What models have built
+7. Model Comparison
+8. Asked basic questions in b/w about why the following piece of code was written
+9. Asked if I have a plot for model comparison
+Did not ask anything beyond my notebook
+(Definitions etc)","Really sweet proctor
+Be thorough in your explanation
+Good graphs might impress her
+Note down ur insights from eda"
+12/7/2025 21:30:34,Someone who got cooked,12/7/2025,level2_81,"Didn't let me finish my notebook at all
+Stopped me at EDA before I joined the tables
+Asked for Top 3 insights for the owner of the theater which will help to improve sales
+How does lagging and rolling features help in your dataset
+How have you implemented lagging and rolling features
+What are Backward Fill, Forward Fill in imputation
+What encoding have you done, explain
+Difference between Label Encoder and One Hot Encoder
+Standard Scaler vs Minmax Scaler
+L1 vs L2 Regularization
+Bagging vs Boosting
+Architectural difference between XGBoost and LightGBM
+How does RFE work ?
+Implement RFE on breast cancer dataset to get 2 features",Beware whoever is planning to explain the entire notebook for 30-40 mins for this proctor
+12/8/2025 17:34:27,,,Level3_20,"Explain the notebook 
+No of models I have hyperparameter tuned.
+To show the leaderboard score 
+Gave feedback to use some more features in training. ",Very nice person. 
+12/8/2025 22:33:38,A friend ,12/4/2025,mlp_level1_viva9,"Show your id 
+Explain notebook
+Asked to explain the parameters used for hyper parameter tuning.
+","Very nice mam.
+Just present your notebook well and know the basics.
+All the best !!"
+12/9/2025 12:07:39,,12/2/2025,mlp_level1_viva2_MLP_Viva,"Level 1
+Asked for id, then introduction, 
+what problems did u face in this project, what did u found, and brief summary about the process
+
+Next was to explain the notebook, don't explain the whole code line by line, just what I have done code by code and that's it ",
+12/9/2025 12:11:42,,12/9/2025,level3_20_MLP_Viva,"Explain the notebook
+Gave recommendations 
+And asked if you have any questions to ask  ",
+12/9/2025 19:55:09,User,12/9/2025,mlp_level1_viva18_MLP_Viva,"1) He just asked me to explain my NB.
+2) In between he stopped and asked 2-3 questions from what i had already explained.
+3) After answering, i continued to explain my NB and at the end he appreciated by saying ""you did a good job"".",Proctor was really cool and patient. Know your code well that is all he is expecting.
+12/9/2025 21:54:43,nope,12/9/2025,Mlp_level1_viva2,Nothing..just asked me to explain the notebook. Thats it.,He is a chill proctor. Very Chill
+12/9/2025 21:56:41,,12/9/2025,level2_74,"1. What is preprocessing? What are the steps used in Preprocessing?
+2. What are hyperparmeter used for? And types. And difference between them.
+3. Asked about Dimensionality reduction.
+4. What models you have used?
+5. How tree based models work?
+6. What is the objective of the project?
+7. What is learning rate?
+8. How did you choose the parameters for hyperparmeter tunning?
+9. Explain what you have done in the project means how you have approached the steps.
+10. What is feature scaling? Why it is used?",Prepare fundamentals used in codes. And he's very chill listening everything.
+12/10/2025 1:39:58,Rithik,12/9/2025,mlp_level1_viva18,"How to improve model performance ( hyperparameter tuning ) 
+Asked to show hyperparameter tuning implementation ","he's pretty chill, just go through your notebook properly and make sure you know why you have used the methods / EDA etc in the notebook."
+12/10/2025 10:34:11,Shoyo,12/9/2025,level1_viva9,"r square definition
+code a basic pipeline
+explain the entire notebook
+boosting
+very sweet proctor, in the end told that i did weell and wished me best luck for level 2 ","Be prepared to code basic pipeline, beware of hte required improts dont mess up over there ."
+12/10/2025 11:46:16,,12/9/2025,level1_viva3,"Viva L1
+1. Show your ID
+2. Explain your notebook
+3. At the asked me to change numeric simple imputer from median to mode he used mode specifically you just have to write 'most frequent' only one word of code change ","Very friendly and chill guy, he will ask 1 or 2 simple theoretical questions, just explain your notebook in detail with proper justification "
+12/10/2025 12:00:35,,12/9/2025,Level1_18,"1.What Preprocessing you have done in your note book
+2. Which models you used in your notebook ",Very cill guy silent whole time.
+12/10/2025 19:53:21,Charmika,12/10/2025,level2_74,"1) what is data preprocessing and why is it used?
+2) what is feature scaling and why is it used?
+3) what is hyperparameter tuning and why is it used?
+4) start demo
+5) what is the objective of this project?
+6) what models did you use? why did they work well?
+7) what is learning rate? why learning rate is 0.05(I used 0.05)
+8) what is random_state 42? why particularly 42?
+9) Does your dataset have outliers? how did you know?","Chill proctor, asks the same questions over and over again so just learn the questions in the sheet, and get ready to yap non-stop"
+12/10/2025 21:56:42,Aryan Jha,12/10/2025,level1_110_MLP_Viva,"Firstly he asked me to explain my notebook. After I completed my explanation he asked my rank and my score. After that he told me to show the features i selected and went into feature correlation matrix:
+1) told me show my feature correlation matrix and ask me how do you read this matrix, and pointed out some features and gave few suggestions then asked me what you do when there is strong correlation between features, asked about multicollinearity and what should we do .
+2) went to my other visualization and told me to explain. It was a histogram.
+3) what are methods to find outlier?
+4) what is bagging and boosting? How nodes are getting created in bagging and boosting?
+5) why Random Forest tends to overfit often? 
+6) how to overcome overfitting and under fitting?
+7) How the root node is getting selected in random forest?
+8) bagging increases or decreases variance. Same  question for boosting.
+9) why linear regression is effected by outliers.
+10) what is knn
+11) why knn is called lazy learner 
+12) what is PCA?
+13) Types of PCA 
+14) which regularization will you use to select features?
+15) what metrics have you used? I answered rmse asked me to explain rmse ?
+16) Why r2_score is not used what is r2_score and difference between r2_score and rmse
+17) models you have used?
+18) What is n estimater
+19) what do we do hyper parameter tunning 
+20) what is mse and mae
+21) Suppose you're creating linear regression in svr what will be your approach?
+22) if a dataset has 200 features, which model will you use for training and what will be your approach 
+23) What is RandomzedsearchCv and Gridsearch CV and difference between them?
+24)  What is Standardization and Normalisation?
+25) Anything you want to Discuss  and then we  had a chat for 4-5 mins
+And told me you performed well just try to give more lengthy answer instead of Short. 
+
+Thats all, I might have missed 2-3 questions ","He's very sweet and supportive it more like you're discussing with him.
+He's supportive but he asks many questions so your theory should be top notch."
+12/11/2025 19:40:15,,11/12/2025,Level1_92,"Show app
+Change a query using filter
+What’s the difference between authentication and authorisation ",
+12/12/2025 12:23:22,sumit,12/11/2025, level1_110 (Viva2),"1.give your introduction
+2.explain your notebook
+show, the correlation between lag features, (i did not have that)
+3.what are methods to find outlier?
+4.what is bagging and boosting? How nodes are getting created in bagging and boosting?
+5. How the root node is getting selected
+6. what is  overfitting and under fitting?
+7.what is regularization
+8. how tree based model works","i explained the notebook 45 minutes, 
+so he asked less questions, he is very nice guy  "
+12/12/2025 20:33:14,Vedant Goyal ,12/2/2025,Level2_123,"Explaine whole notebook 
+Ask about under fitting and overfitting 
+Null values how to handle and what happened if we not
+Outliers how to handle and what happened if we not","She is very nice proctor , keeps her camera open, and asks questions if you stop while explaining "
+12/14/2025 10:34:23,Vishunu ,12/10/2025,Leve1_viva3,"coz i lied that i did scaling of num feat he asked me to change the imputation of missing values from median to mean for missing values (i told when formatting ig scaling of num var i  might hv deleted hes like u dont need for tree based algm to scale and encode )
+what internet resources u used
+if u had more time what wud u do 
+be honest but dont tell i used ai or took help from students just say i saw some yt videos and took suggestions from ta n all 
+","super chill just explain in detail/brief to avoid any theory ques but be really honest abt what u have implemented and also for me like i said i didnt use one hot encode coz it wud create 2 many vars n so i went with diff approach, so i wud say its best while explaining ur nb explain y u took this kind of approach instead of smth else like the eg above i did say for many other parts asw so then u wud avoid being questioned even more i feel
+ask for his suggestions asw so then hell know ur intrested and will give good remarks and score and what he thinks abt ur project .   be really honest with what u hv done in ur code coz he checks those stuff "
+12/14/2025 16:49:33,,12/13/2025,Level3_2 ,"1. Statement of project problem 
+2. All formulas Std., R square, RMSE, SMAPE etc. with i calculated in my notebook.
+3. Name of models and everything about model 
+4. Why I do this strategy why others not etc
+5. In conclusion he asked everything one by one in my notebook ","Learn all formulas, and able to explain whole notebook in simple words "
+12/14/2025 19:11:24,,12/14/2025,Level3_28,"1. Asked about academic background
+2. Explain your notebook
+3. Focussed on EDA and model Building
+4. Asked me to show the graphs
+5. Asked about PCA","Be thorough with your notebook. If you this examiner, then you should definitely focus on the graphs - bar charts, heat map, etc for the  dataset. Also make sure you performed PCA as well. Train a good number of models. She did not ask anything beyond my notebook. "
+12/14/2025 19:20:52,Geeth,12/11/2025,lvl1_110,"Asks for your intro 
+Asked to explain notebook without interrupting, I took 18 mins to explain notebook 
+Then started asking questions on EDA
+Why did I use log transformation, how is target skewed, how is log helping your model
+If he gives you a dataset with many features how will you process that dataset, this lead to PCA, any other method other than eda for dimensionality reduction? Asked about pca in detail including formulas
+Bagging and boosting, then slowly goes in detail
+About metric I chose, which is more robust RMSE and R2, why didn’t you use other metrics
+What is KNN? how does changing k affect
+I don’t remember anything else
+
+Overall viva went on for 48 mins","If you can explain notebook for long time you are good to go, Will ask you basics (once go through this speadsheet for prep) no coding needed"
+12/15/2025 2:16:23,,12/14/2025,Level 2 123,"Same question repeated.
+New question What is standard deviations 
+What is hyparrparameter tuning","Chill proctor chk all the questions in the sheet that she asked by using a filter and u are done.
+Did not even bother to see what I m doing in my project."
+12/15/2025 15:43:30,Nithin,12/15/2025,level3_20,"Viva 2
+1. Explain notebook 
+2. What time series model u used
+3. What more u could have done
+4. No coding or theory questions 
+5. Over in 10mins","Just learn ur notebook, learn what ur model does , also learn some theory just in case!."
+12/17/2025 17:43:06,Vishunu,12/16/2025,Level2_123,"Some of them were from the sheet
+And some some related to the nb like
+What does mean median represent
+Same for r2 score 
+Then what'll happen if there r null values 
+Ig some were on the scaling like y did u import std scaler and the label encoder 
+Some were on the model building and ig in the feature engg part 
+Data leakage 
+I'm really sorry but I don't remember much coz she asked a hell lotta questions
+
+","Know ur nb 
+Be confident 
+She is uper chill 
+And choose a late time spot coz then she'll close of the viva early 
+
+Continuously explain to avoid extra questions and also while doing so state y u took this approach and not others 
+But still ig she cut me off here n there to ask few questions
+
+If u gonna explain very in depth reasons she might ask a question on that coz I had said that train test split and I said it avoids data leakage so she asked me what that is "
+1/6/2026 0:10:51,,,,,
+3/18/2026 14:17:36,PJ,3/18/2026,level1_viva4,"Viva Level 1
+1. Started with Id and intro , then we talked about the notebook
+2. asked to show EDA, explain it, cross questioned like is it possible to print the numbers in the correlation matrix , (yes : anott=True) , I explained EDA twice.
+3. Next he skipped the math behind the transformers and imputers but asked a lot about what specific attributes/parameters I used did.
+4. Then explained All the models I used and what all I did , he asked random questions like Gridsearch vs RandomCV , log_loss vs hinge , causality vs correlation , if instead of 5000 we had 200 features would it be better , how does correlation between features help?.
+5. Finally asked me to show the comparisions and explained what all it meant.","Be prepared with your notebook , Ideally if u keep on talking about it confidently they don't cross question that much. If you pause or take a break , they start questioning. Best of luck"
+3/18/2026 16:08:04,Kavisha,3/18/2026,level 1_118,"It was level-1 viva
+He asked to show student ID.
+Then he asked to explain the notebook in 20 minutes.
+Then asked 1 theory and 1 coding question:
+1. Load iris dataset in colab.
+2. Which one is faster? GridSearchCV or RandomizedSearchCV?
+
+Then gave suggestions for level 2 (prepare theory well) and wrapped up.",He is cool. If you can't answer smthn you can say he will ask something else. 
+3/19/2026 10:45:51,,3/19/2026,level1_118,"LEVEL 1
+- asked for id card
+- 20 min to explain notebook and design choices
+- why not accuracy? why did you not choose accuracy if it wasnt a scoring metric
+- formula of f1 score
+- is equal weightage given to recall and precision in f1 score?
+- why f1 macro, why not others
+- which of the models that you trained are parametric, what are the parameters?
+- coding question: load the iris dataset, shape of feature matrix and target variable, datatype of the feature matrix","be confident, explain the thought process. The examiner is very friendly. He will give tips for l2 as well. Be thoroughly prepared with the theory of the models and focus on EDA"
+3/20/2026 12:24:40,kajukatli,3/20/2026,level1_116,"1. Explain notebook(in 5 mins he said, i took 10, regardless). 
+2. show hyperparameter tuning, show preprocessing pipeline
+3. then 3 coding questions: show labels in dataset and frequency of each label
+4. impute gender column using simpleimputer ,strategy=most_frequent
+5. find no. of null values across all colums in dataset
+Note: no theory questions asked. Nice proctor, doesn't talk much.","Be calm, present your notebook properly. Doesn't focus much on theory, gives small coding tasks"
+3/20/2026 14:26:40,Saheel D,3/20/2026,level1_118,"Level 1 examiner for me.
+
+- First asked to show ID card(virtual is fine) for verification purposes. 
+- Told me I have 25 minutes to explain my notebook and everything I have done
+- Did not interject in between to say anything until the end.
+- Suggested improvments on the current code(for getting a higher score) 
+- Discussed a bit about how all the code should be present in a single notebook and I shouldn't have kept using a different notebook for the ""final"" approach.
+- Asked a coding question which was to load the iris dataset and show the feature matrix. 
+- Suggested topics to study for L2 Viva","Generally, this examiner is quite kind. Granted, that does not mean they will give you a free pass but just be confident in your work and explain what you've done.
+
+If you don't know anything, just be honest and say that you aren't aware of it. Don't pretend to know something or it will look worse."
+3/20/2026 16:15:38,,3/20/2026,mlp_level1_viva3,"> You have 10-15 mins explain your notebook
+> Where did you do encoding
+> Where did you do imputation
+> Show me your kaggle competition submissions
+> Import California Housing Dataset and perform 80 20 test train split, you can use documentation but not llm","Straight forward guy, no bs"
+3/20/2026 16:22:05,,,level_1_118,"This is for level 1 viva.
+1. First, show ID card (online)
+2. Then, explain the notebook in 20/25 minutes (data loading, EDA, Feature Engg, ML models, HPT and final analysis)
+3. Asked what column transformers are
+4. Asked to open a collab notebook and load iris dataset and show shape",1. Very friendly. Explain your notebook well for 20-25 minutes 
+3/20/2026 17:33:16,Sivasankar S,3/20/2026,level1_118,"If you got 118 proctor your lucky. 
+
+Explain your notebook as much detail as possible. I took 20 mins to explain.
+
+Here it self i explained the EDA, Pipeline, assumptions, what model,  how it works,  what was the result and the interpretation. Same for hyperpameter tuning explain all parameter what will be the impact of each of them, then explain the best parameter and what is your observation. I had 3 models and I have did Hyperparameter tunning for 2 Models. 
+
+After this he asked me 2 questions (last 10 Mins)
+
+1. Regarding my pipeline structure 
+2. Load iris dataset",Practise Iris dataset very important. Understand your notebook very well. 
+3/20/2026 18:30:05,Monika,3/19/2026,MLP_Level 1 ( mlp_level1_viva4),"1. Show ID card 
+2. Introduce yourself and project
+3. Start explaining your notebook
+While I was explaining, he asked questions in-between:
+4. what is n-gram range? Unigram? Bigram? 
+5. what it will be called if n_gram range is set to 8 or 11 or any other number?
+6. random forest n_estimators = 100 why? what if i set it to 2000?
+7. Hyperparameter tuning: How many fits will your model make based on the parameters you have set? how do you confirm that?
+8. why you did or didn't do encoding and pipeline?
+9. Which is your best model and why do you say so?","Know your notebook thoroughly. Keep your notebook self-explanatory as much as possible. so that when they ask you questions, you can directly go there and show them, or you can say by referring them too."
+3/20/2026 19:32:50,No one,3/19/2026,Lvl1_viva2,Mostly questions are from sklearn api and to write code without using documentation of logistics regression ,Explain ur notebook throughly
+3/20/2026 19:34:21,,3/20/2026,mlp_level1_viva3,"1. Asked to show ID card
+2. Gave me around 15-20 minutes to explain the notebook
+3. Asked to write the code for filling the categorical column with mode for each feature
+4. Asked if I had more time what else would I have implemented in the project?
+That's all",Know your theory and explain your notebook well. That would make up for the most of Level 1. The proctor was helpful and gave nice feedbacks and how to improve more too. Good luck!
+3/20/2026 21:38:01,,,,,
+3/21/2026 11:17:35,Abhinav,3/19/2026,Level1_118,"It was my level 1 viva
+Instructions Given by Proctor:
+
+Proctor explained the full workflow. He told that i got 20-minutes to complete identity verification and explain complete notebook then in last 10 minutes we will have questions 
+
+Key Events During Viva:
+
+After verification, I presented my entire notebook. In between he didn't stopped me anywhere he just silently listen till end.
+
+Then In Q&A, proctor only asked: ""Why did I use MLPClassifier()?""
+
+Proctor then instructed: Open Google Colab, load Iris dataset, display data structure, and separate features from target variable.",He is very chill proctor as you can see other student experience also. I am glad he took my viva.
+3/21/2026 12:15:10,Parth Jayanandan,3/21/2026,level3_28,"1. Asked about me and my academic backkground
+2. Asked to explain the problem , then we talked about NLP and semantic analysis for 5-10 minutes.
+3. Asked me to open the book and talk about everything I did, I started explaining my ideas about tfidf and their limitations and how I haf built the code . 
+4. After EDA/feature engineering/preprocessing , skipped the models and went to final results , showed my accuracy and kaggle scores, explained how F1 scoring works and interview done.
+Sweet lady , just asked me to talk about everything I had done , we talked aout out of syllabus ideas and concepts but she did not ask questions or test my knowledge in that area . She did not once interrupt me or even ask a single question (techincal question)","Honestly if you know your material , have your insights and explain your workflow as a continuous story it's fine. Just know your book , understand ur graphs, plot a few extra if possible and be confident while talking."
+3/21/2026 14:29:49,Valar Morghulis,3/21/2026,level1_viva9,"1. Notebook walkthrough
+2. create a pipeline with as many steps as you want
+3. explain the working of logistic regression model",
+3/21/2026 15:09:19,,3/21/2026,mlp_level1_viva9,"1) show id card
+2) explain the notebook code briefly in 5 mins. i did in a bit more detail tho, took 10-15mins.
+3) coding question, build a simple pipeline similar to the one you have currently.
+4) this is a classification task, why have you used logistic ""regression""
+that's all, she said I did well.","Know your code well, and know how to code on your own"
+3/21/2026 17:22:06,Meet,3/21/2026,level1_118,"1. Explained the workflow and gave me 20 mins for id verification and notebook explanation
+2.Did not interupt me while i was explaining 
+3.Explained the mistakes in my code and was very supportive in that
+4.Thoroughly examined EDA and majority questions were from EDA part 
+5.Asked me to explain the graphs
+6.Told to Load breast cancer data(gave hints how to load however did not allow me to use documentation) and plot the target names in that
+7.Asked about the output of fit_transform method and how can we convert that output to pandas(set_output(transform='pandas')) tested whether i knew it or not ","Very chill guy and very brainy jus know your notebook from word to word and what it does especially the visualization part,one wrong answer and you're cooked jus tell him what you know or dont know he is very supportive throughout the viva "
+3/21/2026 19:28:33,Sk,3/21/2026,mlp_level1_viva9,"1. Show id
+2. Start presentation i said for 15 mins
+3. Open notepad and write your custome preprocessing pipeline
+4. Explain how logistic regression works
+5. what is f1",Know everything about your notebook
+3/21/2026 21:11:32,anjali kokare,7/2/2007,level1_viva1,"1.Explain the notebook.
+2.Explain the graphs used in the analysis.
+3.Explain hyperparameter tuning. Which models were used for hyperparameter tuning? 4.Which model achieved the highest score, and which parameters (e.g., C for regularization) gave the best performance?
+5.Write code in Google Colab to demonstrate the use of SimpleImputer.
+6.Explain the difference between fit() and fit_transform() in detail.",very nice she is very chill dw
+3/21/2026 21:23:03,,3/20/2026,Level1_Viva3,"1. Asked to explain the notebook within 15-20 mins
+2. Asked if I have used Scaling for features
+3. Asked which one is the best performing model , what is Kaggle score
+4. Asked to import California dataset, perform train test split ","Nice person. Told me to prepare well to defend myself, hyperparameter tuning for level 2"
+3/22/2026 12:20:20,T-T,3/22/2026,Level3_44,"- To explain the dataset and did we go thru the dataset properly and understood it 
+- What encoding did u use? why didnt u use encoding much? why did u fill na with all the missing ones?
+- what feature engineering u did? why did u take them? did they make any difference in score? did u try removing them? how did u use it in ur model? what does ur model learn from them?
+- what was the correlation between ur feature engineered columns?
+- why didnt u do any imputation? why just to numeric is used? 
+- why is ur validation set just 10%? u have a reason?
+- in model building, why did u use these models? how are they different? where is the training accuracy? is val accuracy different from overall accuracy?
+- what is hyperparameter tuning? why can it help in model building? 
+- what is bias and variance? how can it affect ur model? why are they important?
+- what other validation metric u could have used? why loss loss? what must have been the difference?
+
+she asked to code train and test split and building logistic regression model fitting, predicting and accuracy score
+
+- in a real world scenerio how will u use this model u have used? lets say u are working in a social media compary how will u use this comment categorisation over there?","she is new to this ig. she went thru the instructions given to her properly. she asked to keep second phone camera in the side. she asked a lot of questions while i was explaining the notebook. she was kinda sweet tho. she even verified whether this is the dataset given to us. 
+
+u can concentrate on knowing ur notebook very well like why u did each and every step - line of code and how does it affect ur final result. she will shoot u with a lot of question be ready to answer T-T"
+3/22/2026 12:58:39,Mitzig,3/22/2026,level1_viva4,"1. Id card Verification
+2. Introduce yourself, and tell me about yourself 
+3. Start with the Notebook Explanation 
+4. My explanation went on for 40+ minutes, he would ask questions regarding the parameters used in each method/function/ model. 
+5. Explain n-grams, what would n-gram translate into if i want a range of 6-10 words 
+6. How many fits would happen in RandomizedSearchCV vs in GridSearchCV ","Be as thorough with your notebook as possible, Be sure to go deep into EDA, and explain it well, that would impress this examiner."
+3/22/2026 14:16:00,Nikhil Itaudiya ,3/22/2026,Level1_viva2,"Explain the problem statement and notebook? 
+Why use standard scaling?
+In outlier which is best feature scaling and why we use?
+In collab, california dataset load and describe functions?
+Which sklearn api use for OneHotEncoder,StandardScaler?
+Difference between bagging and boosting?
+Asked PCA?
+",Revise theory concept.
+3/22/2026 14:34:08,Ankita,3/22/2026,Level1_viva1,"App router for search company by its company id, due components buttons hi, life cycle hook, caching where is used , redis and celery workflow, lazy loading,  token based , where the token is stored and run the core functionalities of the project ",Don't worry he's too sweet and kind 
+3/22/2026 15:34:49,Siddhant,3/21/2026,level1_viva9,"1.show id card
+2.explain notebook
+3. any imputation used?
+4. any scaling used?
+5.open notepad and code your best model
+6.print classification report","she is very sweet and helpful,just stay confident and give clear explainations!"
+3/22/2026 16:01:00,,3/20/2026,level1_118,"1. show id 
+2. explain the notebook
+3. 2-3 questions from the notebook itself 
+4. load iris dataset & some basic code",
+3/22/2026 16:50:42,,3/22/2026,Lvl2_viva104,,"L2_viva104
+
+Explain project statement and solution 
+Why u extract features, what real insight u get
+Explanation continued
+
+Ask what is regularizations and gradient descent and ehat is gradient
+Boosting bagging
+Underfitting overfitting 
+
+He gives me tips to get industry and job ready 
+All the best for future"
+3/22/2026 18:28:51,RIthvik,3/22/2026,mlp_level1_viva16,"1) Asked to explain the notebook (make sure to complete by 20 mins as they have other calls and might get irritated) I took more time and could sense his irritation
+2) Asked how F1 score is used in training (didnt know). I explained what i knew of F1 score eval
+3) Asked to code losgistic regression full pipeline
+4) asked basic questions like .describe()
+5) On hyper parameters used and asked to edit the parameters to reduce the score","1) stick to 20 mins for notebook explanation and be thorough with your codebase.
+2) Good practice is that you should be able to code the entire project from scratch. (esp the preprocessing, model building, hyperparameter tuning and eval)
+3) Create a new notebook and try to do whatever you did in the notebook (esp the preprocessing, model building, hyperparameter tuning and eval) by your self. And you'll have a better understanding 
+
+"
+3/22/2026 19:07:08,,3/22/2026,level1_116,"notebook in 5 mins
+code for null values
+code for impute gender column with most frequent strategy
+code for label and frequency for each class of target column","Chill proctor
+will help if u get stuck in coding
+Have good number of plots in notebook and everything required for viva in one notebook"
+3/22/2026 22:10:42,Sarkar,3/22/2026,mlp_level1_viva9,"1. Go through notebook, explain such way that she doesn't get chance to ask any question.
+2. How missing values were handled?
+3. Buiid pipeline in new notebook, asked first if i was comfortable since i did not implemented pipeline in project
+4. Difference between encoding and something i do not remember, apologies for that, so better prepare for everything that can be used in place of encoding.
+5. Definition of F1 score
+6. Formula: Accuracy, Precision, F1 Score","Very supportive and professional. Asked relevant questions, guided the discussion well, and maintained a comfortable environment throughout the viva."
+3/23/2026 11:10:31,Hritik,3/23/2026,Level1_118,"Level1_118:
+1. Show ID
+2. Notebook explanation for about 25+ minutes
+3. Question on Hyperparameter tuning - GridSearchCV and RandomizedSearchCV. Asked about my approach and reasoning behind that. I used manual configs and other techniques, but he asked to just add a Block for RandomizedSearchCV just to meet rubrics.
+4. Load breastcancer dataset and print target values.
+5. Best of luck for Viva 2.
+
+Total Viva L1 for around 35-40 minutes.","Nice proctor, helps you in-case you are stuck and good to have basic data loading practice done before, as he asking sklearn dataset loading and target values printing in a timed manner. "
+3/23/2026 11:30:39,Bingi Sai Mohith,3/23/2026,mlp_level1_viva7,"1. Explain your notebook.
+2. Have you used pipelines?
+3. Difference between RandomizedSearchCV and GridSearchCV
+4. What are the models used?
+5. What is a simple imputer? What are its strategies?
+6. Implement simple imputer with mean as the strategy on a column.",Try to explain the notebook in as much detail as possible. The proctor is super chill.
+3/23/2026 14:20:55,Anuran Ghosh,3/23/2026,Level 1_118,"Very well spoken and helpful.
+
+1) asked me what if I changed loss in SGD Classifier from logistic loss to hinge loss.
+
+2) Asked me the methods which of mine methods were parametric.
+
+3) load_breast_cancer and show the target names.
+
+Lastly said good luck for level 2, and provided suggestions to improve the code and models. Though I wasn't happy with the viva I gave.",Study the notebook and models you have used.
+3/23/2026 15:14:54,Janardhana Advaith,3/22/2026,mlp_level1_viva3,"> Asked to explain the entire notebook (10-20 mins). 
+> Had some queries regarding the scaling and encoding section (5 mins). 
+> Asked to import the iris dataset and train a basic logistic regression model with train test split (5-10 mins). 
+> Finally gave some suggestions on improvement. ","Be thorough on every line of the notebook and try to practice coding for simple tasks like loading datasets from libraries, basic feature processing (imputation, scaling, etc). Be calm and composed. The proctor is friendly as listens carefully to what you say. "
+3/23/2026 16:13:32,Anonymous ,3/23/2026,L1_118,"I card check from iitm portal. 
+Explain notebook in 7-8 mins. Suggest some improvements in notebook representation for L2. 
+Asked particular section of the notebook to explain in detail. (hpt and models comparison for me). Asked 1-2 questions on that.
+Asked simple coding in last 10 mins.
+Q1. Plot bar chart from a mannual data (data was my diff model score from the notebook) in Colab. Give/change label n lim of axes.
+Q2. Load sklearn breast_cancer dataset. Print target names, print missing val count in a col.",Prepare your notebook thoroughly n very basic coding in colab. In L1 qs are not so deep.
+3/23/2026 16:53:47,Kailash,3/23/2026,level1 Level1_viva3,"1. very chill proctor, patience
+2.  asked me to explain NB under 10 min i took 20 min, explained each and every graph, model with insight and in detail
+3. asked 1 coding question `[in kaggle only] import iris dataset and fit LogisticRegression on entire data dont use split, use Documentation if u want`
+code:
+```
+from sklearn.datasets import load_iris
+from sklearn.linear_model import LogisticRegression
+iris=load_iris()
+lr=LogisticRegression()
+lr.fit(iris.data, iris.target) 
+```
+4. u can take suggestion, ask suggestion/question from him
+5. show me GSCV, imputation 
+6. very nice proctor",understand your code and explain in detail
+3/23/2026 17:00:54,PD,3/23/2026,mlp_level1_viva7,"He is a strict proctor but did allow to use Google and documentation
+Asked to explain my notebook
+Asked difference between gridsearchcv and randomizedsearchcv
+Asked to print column names from train dataset
+Print the comments containing '@'
+But I was not able to answer the coding questions because I was very nervous in the viva and he said that I might have used too much of AI because of which I was not able to code these basic questions and he said that maybe I have failed the level 1 viva and have to redo the level 1 viva again.",Practice some coding questions and be confident while giving your viva.
+3/23/2026 19:02:43,Noor e jahan,3/23/2026,Level1_118,"Level 1 viva
+1) Show ID card
+2) Demonstrate the notebook
+3) gave some suggestions
+4) Plot bar graph - model vs its score(you can do it manually)
+5) Good luck for level 2 ","1 suggestion that is no suggestion.
+ I have completed all other projects but he is the nicest proctor I have ever got.
+ He helps you if you get stuck and make you comfortable so that you do better. "
+3/23/2026 19:34:54,,3/23/2026,mlp_level_1_viva7,"Level 1 viva
+- notebook presentation
+- have you used pipeline?
+- what is scoring='f1_macro'?
+- difference b/w grid search and randomized search 
+- print all the column names of train set
+- print first 5 rows of the train set","He is sweet, doesn't interrupt and gives you sufficient time to answer"
+3/23/2026 20:55:12,,3/23/2026,level2_123,"LEVEL 2
+
+- asked id
+- no coding questions because i explained the code really well
+- how do you handle missing values and outliers
+- what is learning rate and how does a high/low value affect
+- explain boxplot and how it affects your choices
+- explain the thought process of choosing the particular line of models","friendly and chill
+- explain all possible parallel ways you could've approached but chose the written code so that there is no room for questions
+- present the visualisations and EDA well -> she asks the most questions there
+- most questions from the sheet
+- be confident and don't stop speaking"
+3/23/2026 21:06:57,Akshay,3/23/2026,mlp_level1_viva1,"Level 1 viva (8.30 PM to 9.00 PM)
+
+Show your ID
+Explain the notebook 
+Asked me to show the code sections of feature engineering, Encoding, and Feature scaling. 
+Whether have you used any pipeline? 
+Whether have you displayed confusion matrix? 
+
+Coding Question: 
+Asked me to code the encoding of categorical features(Documentation was allowed) ",Just be thorough with your notebook. She'll ask only from your notebook. 
+3/23/2026 21:21:05,,3/23/2026,Level2_81,"Lot of theory questions 
+Tell about you top 3 insight from EDA
+tell about preprocessing and scaling and feature engeneering that you have done 
+Some questions he asked in between of my explanation 
+Then went on the models - asked the working of each model and even the maths behind them - formulas 
+Then asked to load the breast cancer data set and do RFE to find top 3 features",Conclusion - prep theory well and try this RFE thing + best of luck 
+3/23/2026 21:32:21,,3/23/2026,Viva8,"1) Examiner was too chill asked me to present and explain the code
+2) while i was explaining, he asked me to go to EDA directly, then saw.
+3) he asked where I have used the pipeline
+4) then he asked if I have used hyper parameter tuning or not
+5) then he asked me to change TfIdfvectorizer fo  only trigrams tokens
+6) then he asked me which 3 models I have made
+7) since I used Logistic regression so he asked what are all of the penalty we can use (L1,l2, elasticnet)
+8) then he asked what is C in the parameter
+9) then he asked which loss I have used in LinearSVC 
+Then he appreciated my work and explanation and gave good luck to me for L2 viva, also he told use documentation during L2 viva if required, and prepare for theory questions, questions form MLF and MLT will be asked","Chill examiner, concluded my viva in 16 mins only, "
+3/23/2026 21:55:48,,3/22/2026,level1_viva4,"it's level1
+All questions are from notebook's code 
+no coding question
+suggest me to do more eda ",just know meaning of every word of your code and reason of why you use it 
+3/24/2026 8:55:34,Mrigangk,3/22/2026,Level1_117,"Explain notebook(interrupted in the middle to ask questions on fhe notebook)
+After notebook explanation, told me to explain how the main model i used works
+Told me to write code to train the data or logistic regression","Know your notebook well, including EDA, feature engineering and models used"
+3/24/2026 11:46:52,Ravish,,1_118,"1)Explain your notebook(i took 10 mins)
+2)asked about graphs i had plotted
+3)told me to comment out HPT with results stored in markdown(taking 10 hours)
+4)asked to load the 20newsdataset and display the target columns, i did load instead of fetch and he didn't let me see documentation
+5)asked me to explain difference between load and fetch(Sklearn api calls another api to fetch data from internet)","explain notebook clearly, dosen't let use the documentation for Viva"
+3/24/2026 16:53:50,,3/24/2026,L1_118,"1. Which of your models are parametric?
+2. What would the type(xtrain) be after preprocessing?
+3. Write a code to show the feature names of wine dataset.","I focused on harder questions and missed out on the simple fundamental stuff. However, the coding was easy and I wrote the code easily. Focus on easy and fundamental stuff too. "
+3/24/2026 16:54:40,,3/24/2026,level1_118,"1.show id
+2.explain notebook
+3.asked me to draw graph by creating list of model and score in collab
+4.loading dataset in collab and printing the target variables
+5.which one is parametric model in my notebook and why?","Very very supportive and chill
+even if you stuck in between he will help you step by step"
+6/28/2023 22:09:35,Akhilesh,,,"Ok Just finished my level 2 viva:
+1. Obviously go through your colab and explain the project.
+2. Gave a dataset of 6 features (4 numerical, 1 categorical, 1 target) with some missing values and some '?' values. He asked to select 2 features using RFE and logreg in a new colab notebook. Time: 10 minutes.
+3. Started viva questions. What is and why we need: loss function, feature selection, data preprocessing, EDA, dimensionality reduction technique/pca, hyper parameter tuning, explain logistic regression, overfitting and underfitting, gridsearchCV and randomisedsearchCV, what is CV, evaluation matrics.
+Viva took 45 mins.",
+6/28/2023 22:19:30,Akhilesh,,level2_103@study.iitm.ac.in,"1. Obviously go through your colab and explain the project.
+2. Gave a dataset of 6 features (4 numerical, 1 categorical, 1 target) with some missing values and some '?' values. He asked to select 2 features using RFE and logreg in a new colab notebook. Time: 10 minutes.
+3. Started viva questions. What is and why we need: loss function, feature selection, data preprocessing, EDA, dimensionality reduction technique/pca, hyper parameter tuning, explain logistic regression, overfitting and underfitting, gridsearchCV and randomisedsearchCV, what is CV, evaluation matrics.
+Viva took 45 mins.",
+7/5/2023 13:40:23,Unknown,,,"Viva went well. 
+
+I was asked to go over my notebook. I told them about my reasoning behind my data preprocessing and modeling steps. Explained to the proctor about 3 to 4 models that I have done. In between my explanations, I was asked to open whiteboard in google meet and answer his questions. These questions were normally what one would learn in MLT course. I was then asked about future scope of this project, things that can be done to improve the score better. I told him about some steps that I wanted to take after this viva to improve my model. To end with, I asked him if he had any suggestions regarding my pre-processing steps. 
+
+Proctor was satisfied with my work and explanations.",
+7/26/2023 18:09:10,,,,"MLP Viva Questions -
+
+
+Viva Question: explain the project... what you did and why you did...
+What is exploratory data analysis and why we do it...
+Why we do preprocessing 
+What is feature scaling 
+How can we reduce data redundancy
+Explain pca
+explain  confusion matrix , precision, recall f1 
+Explain regression
+Explain overfitting and under fitting...how we can understand  if a model is over fitting  or under fitting 
+Explain decision tree
+Explain generative and discriminative model
+What are the evaluation  metrics for regression
+What is loss function
+Why do we need to train a dataset
+What is loss function  for the model I used in project 
+Show your project, run it
+Gave a question in the chat about pipeline and SVC, and asked to run it.
+Difference between bagging and boosting
+Decision Tree questions, how it works
+How KNN Imputer and KNeighborsClassifier works
+Explain preprocessing steps
+Performance measures for classification and regression models.
+1. Project Statement
+2. What are the categorical and numerical variables
+3. How does null values affect the performance of the model
+4. Why do we do imputation?
+5. What is Baseline Model
+6. Notebook Dikhao.
+7. PCA
+8. Generative and Discriminative Model
+9. Explain the workings of Linear Regression
+10. Is Logistic Regression discriminative or generative model
+11. Confusion Matrix.
+12. Precision, Recall, F1-Score, Accuracy
+13. Is your data imbalanced or balanced ?
+
+============================================================================================================================================================
+
+Describe your ML problem
+Describe EDA part 
+what you gain from EDA 
+simple Imputer 
+standard scalar
+what is Onehot encoding
+what are the technique of dimension reduction
+how PCA works
+how logistic regression works
+Random forest
+what are the different hyperparameter of random forest
+gradient decent algo
+generative and discriminative models
+precision, recall, f1 score
+how overfitting is related max depth of decision tree
+if decision tree have a maximum depth then how many training sample in the leaf node
+model of linear regression
+loss function of linear regression 
+if we have overfitted linear regression model then what is solution of this (ridge and lasso)
+what is Ridge and lasso regression
+different method of minimizing the loss function of linear regression
+can u give one main property of loss function of linear regression
+different metric of regression 
+instead of mean square error why we can not choose mean cube error
+what is kernel regression
+model of kernel regression
+what are the features after polynomial feature transformation
+
+======================================================================================================================================================================
+Just done with the viva, things I was asked to do (in order):
+
+1. Introduce yourself.
+2. Explain your Project Notebook in detail in 15 mins.
+3. What more can you do to achieve a better score in this notebook?
+4. Gave the Week2 Practice Assignment dataset, asked to do RFE on the dataset and find the best 2 features in the same.
+5. What is hyperparameter tuning, why is it required?
+6. How can you tune parameters in sklearn.
+7. Differentiate b/w GridSearchCV and RandomizedSearchCV
+8. Explain Decision Tree in detail.
+9. Explain Logistic Regression in detail.
+10. Which is better in presence of outliers -> Logistic Regression or SVM? Why?
+11. Explain KNN in detail.
+
+
+[2:36 pm, 10/04/2023] +91 98865 78302: Guys done with viva...just now
+[2:36 pm, 10/04/2023] +91 98865 78302: Need to thank everyone...who have posted their questions...
+[2:36 pm, 10/04/2023] +91 98865 78302: Same were repeated
+[2:37 pm, 10/04/2023] +91 98865 78302: They asked me to explain steps in logistic regression mathematically
+[2:37 pm, 10/04/2023] +91 98865 78302: Which i couldn't explain...
+[2:37 pm, 10/04/2023] +91 98865 78302: What i say is be through with what models you have implemented
+[2:38 pm, 10/04/2023] +91 98865 78302: All the best to everyone...
+[2:39 pm, 10/04/2023] +91 98865 78302: One more question...he asked what is pca based on...
+[2:39 pm, 10/04/2023] +91 98865 78302: I answered as svd...
+[2:41 pm, 10/04/2023] +91 98865 78302: Duration 35minutes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",
+7/31/2023 17:26:56,P. Vishal Reddy,,level2_81,"Mostly just elaborate explanation of my notebook. Why use my 3 models?
+Why did you only select some of the solvers/losses for gridsearch?
+Why did you choose to impute in these ways?
+What can you do to improve score?
+Any questions for me?",
+7/31/2023 17:45:27,,,107,"he aksed more about Decision tress, gini
+index, informaiton gain,
+
+Neural networks, how they are trained, what
+kind of activation is used when etc.
+
+About SVM and what are kernel etc.
+too much technical stuff.
+
+Haven't watched the results on notebook
+HPT or anything.
+
+also, over fitting and under fitting, methods to
+correct them.
+
+Also difference between Machine learning and deep learning.
+",
+8/7/2023 21:33:48,Shahuraj ,,L2_106,"Try to explain Kaggle Notebook in detail, right from problem statement to explaination of prediction outcomes. 
+1) Why you selected this ( in Notebook) 
+2)Loss function of Logistic regression
+3) why we do hyper parameter tuning
+4) What grid search CV does?
+5) which factors made you to select this model for predition on test data",
+8/15/2023 13:25:45,Sunil Karnad,,3_9,"1. Explain Logistic Regression and how it is different from Linear Regression
+2. What is Log Loss?
+3. What is the Optimisation Algorithm in Logistic Regression?
+4. What are the steps of preprocessing? Why is scaling important? Why is KNN sensitive to scaling?
+5. Explain overfitting and underfitting with an example
+6. Explain step by step, the working of K-means Clustering
+7. What is Elbow method ",
+8/15/2023 13:27:52,Sunil Karnad,,3_9,"Missed out one more question, that he spent quite some time on:
+
+8. What is dimensionality reduction, why is it important?
+9. How does PCA work?
+",
+8/18/2023 0:33:54,Sajal Dhingra ,,Level_1viva_5,"My proctor was very good, he suggested me 1-2 things and in the last he said, all the best for the viva2, which I hope means I pass level1 viva😅",
+8/21/2023 21:35:56,Anant,,level2_106,The proctor was nice. He didnt asked a question outside of the notebook. Any question he will ask is completely based on the work you have on the notebook. If you got this proctor just have clarity of your work is sufficient,
+8/22/2023 12:11:43,Ullas kumar,,106,"Q1) just explain your notebook(in depth in b/w questions)
+Q2) how to reduce overfitting
+Q3) what grid search cv does
+Q4) loss function of logictic regression
+Q5) about pipeline and hyperparameter tuning.
+proctor said mine was ok ok.",
+8/22/2023 12:39:12,Divya Katiyar,,MLP Viva 3_4,"- Explained him the competition, how Kaggle works, our problem statement
+-  Went through my notebook step by step. asked About all graphs.
+- Asked about what you have inferred from the correlation matrix
+-  Why have you dropped columns based on null values
+-   How null values affect a feature? 
+- Went on to seeing the models. He thought I have only used Log reg so he asked me why have I used Log reg, what analysis did I do to use log reg
+- Showed other models. Again asked why have you used these models.
+- Asked me why are the models giving different scores even though the data passed is same
+- Asked for confusion matrix, what all metrics are used. why use accuracy for your project?
+- Shouldn't you use some other metric?
+- How have you handled imbalance
+- what will happen to you accuracy if there is no imbalance
+- How is your model performing on each class?
+- Explain metrics
+- I had not made AUC ROC/PR curve so he said you should have plotted a graph to understand the functioning of your model
+- Why such high overfitting? Why is this model which is so overfit, is your best model
+- How would you handle over fitting? What this overfitting shows about your project?
+- What are your key learnings from the project
+- He kept on insisting that why not more analysis, why not explore more. He probably thought we are degree students so we have at least 2-3 years of knowledge, explained him the degree structure so he realized we are mostly beginners.",
+8/23/2023 17:17:44,Gautam Gala,,level2_106_MLP_Viva,"loss function for logreg
+hpt
+pipeline
+EXPLAIN YOUR NOTEBOOK THOROUGHLY WORD TO WORD DEEPLY
+MY VIVA WAS OVER IN 10 MINS (theory score/knowledge is also considered)",
+8/23/2023 17:18:51,Gautam Gala,,level2_106_MLP_Viva,why only accuracy score was considered and not F1 score,
+8/23/2023 17:19:46,,,level2_106_MLP_Viva,effect of normalization over all - speak more,
+8/24/2023 15:31:05,,,Level 2 106,"Imputing
+Hyperparameters turning
+Models
+Graphs
+F1 score 
+Data imbalancing
+Overfitting prevent
+",
+8/24/2023 16:42:24,Aditya R,,Proctor 106,"what is your overall conclusion from the project Have you used pipeline  So tell me what is your experience with hyper parameter tuning means how much time the hyper parameter tuning took that is the first and the second is how much the improvement in the result.  what is a F1 score   Okay, suppose you see that there is a over fitting problem in your model. So what kind of steps will you take for that how much time did it take to tune the hyper parameters in logistic regression? Just approximately.",
+8/26/2023 20:16:39,Ganesh P,,level2_103_MLP_Viva,"Level 2 viva with proctor 103
+
+Introduce yourself.
+Explain your notebook.
+What steps did  you take to improve your models/score?
+What is hyperparameter tuning?
+Explain Overfitting and Underfitting and steps to avoid them?
+Coding challenge: Do RFE on dataset given and tell me which are the two best features.
+
+Final comments:
+""The feedback is that your theory and coding knowledge is very good. Thank you and all the best"".",
+8/29/2023 19:06:15,Akshita Mittal,,106,"The proctor asked me to explain my notebook. 
+I explained my notebook in detail.
+
+Later on, a few questions were asked to me- 
+1. Difference between hyperparameters and parameters.
+2. How to prevent overfitting?
+3. Can hyper-parameter tuning help with overfitting?
+4. What is f1-score?",
+8/30/2023 0:03:33,Parv,,L2_106,"1. Explain your notebook
+2. What is f1 score?
+3. What is precision and recall?
+4. How much time did the hyperparameter tuning of your best 3 models take?
+5. How would you handle overfitting?",
+8/30/2023 15:06:45,Princy Mariam Jacob ,,106,"1.Explain the notebook .(He will ask questions, while you are explaining answer him and continue with explaining your notebook entirely )
+A. He asked if I have used dimensionality reduction technique
+B. Answered me if I used anything other than accuracy and F1 score.( My answer yes I used roc curve, precision recall curve and confusion matrix)
+C. Which all models did perform the best ? ( I said my top three models and explain the reason for other models not working)
+D. How hyperparameter affected this model? How there a change in score after using HPT ( I told him the improvement in score after I used htp)
+2. What is loss function of logistic regression? (Just one word answer)
+3. What is overfitting? how to identify it? How to tackle it? ( explain this one clearly)
+That's all and it took around 17 mins for my viva. I joined the meeting 5 mins early, he also joined the  very next moment.Started with verification and asked to present the notebook and explain.
+In the end he said very good :)
+",
+8/30/2023 15:21:49,K,,Level 3_9,"What is preprocessing? 
+What is eda?
+What all eda have you used?
+What is imputation?
+What is scaling?
+What is dimensionality reduction?
+What is pca?
+What is kmeans? Does it change the size of dataset? How exactly does it work?
+What is knn?
+What are its detailed steps?
+What is loss function?
+What is log loss?
+What is linear regression? How is it different from logistic regression?
+What is overfitting and underfitting? Explain with example.
+What is decision tree?
+What is bagging and boosting?
+What can you conclude from confusion matrix/ classification report?
+Explain roc curve. What can you conclude from it?",
+8/30/2023 17:38:51,Gokulakrishnan ,,Level_3_9,"What is logistic regression
+What is knn
+Explain kmeans algorithm
+What is preprocessing
+Why do you preprocessing?
+Give some methods of preprocessing and explain
+Given a classification problem how will you classify products
+What algorithms you will use
+What do you mean by loss function
+Explain under and overfiting
+Show the notebook and what algorithms did you use
+Why logistic regression performed well and why others didn't?
+
+He looked like he hates his life.
+Professor virus of 3idiots movie.    Why us :(.
+Hope you get proctor 106..
+
+",
+8/30/2023 17:43:07,Gokulakrishnan ,,Level 3-9,"He just ask same set of questions from a printed copy of questions which he has
+
+He asked what is PCA
+What is dimensionality reduction
+Why scaling is important
+Why is feature scaling
+What are hyperparameters
+Methods to do hyper parameter tuning
+Explain diff between the methods mentioned 
+
+
+",
+8/30/2023 18:57:57,Sau...,,107,"[30/08, 5:16 pm] +91 9023: did your data have class imbalance
+[30/08, 5:16 pm] +91 923: how do you treat it
+[30/08, 5:17 pm] +91 923: what is oversampling undersampling
+[30/08, 5:17 pm] +91 9: what is f test, t test
+[30/08, 5:17 pm] +91 : what is bias variance tradeoff
+[30/08, 5:17 pm] : what is overfitting vs underfitting
+[30/08, 5:18 pm] : how do you treat overfitting
+[30/08, 5:18 pm] : what is bagging boosting
+[30/08, 5:18 pm] : does bagging reduce variance or both variance and bias
+[30/08, 5:18 pm] : what is decision tree
+[30/08, 5:18 pm] : how is root node formed
+[30/08, 5:18 pm] : how do you avoid overfitting in tree
+[30/08, 5:19 pm] +91 what is forest vs tree
+[30/08, 5:20 pm] : gave coding problem about mnist. had to import mnist, split it 50-50. make a pipeline using standard scaler and svm with given params. train top 100 samples. test last 100 samples. print f1 weighted average value
+[30/08, 5:20 pm] : what is neural network.
+[30/08, 5:20 pm] : what are the names of activation functions.
+[30/08, 5:21 pm] : what is tanh activation function.
+[30/08, 5:21 pm] : step function vs sigmoid function
+[30/08, 5:21 pm] : what is loss func
+[30/08, 5:21 pm] : which loss func is preferred in logistic regression
+[30/08, 5:21 pm] : why
+[30/08, 5:22 pm] : how does knn work
+[30/08, 5:22 pm] : ok saurish. you can go now. you've done good",
+8/30/2023 20:39:22,,,107,"1) Imputation Methods
+2) Why remove outliers
+3) Why should you scale the numerical features? 
+3) Theory behind logistic regression
+4) Theory behind SVM
+5) Theory behind Decision Trees, Information Gain, Entropy, Random Forests Theory
+6) Precision, Recall, Examples for which scenario is each used?
+7) Bagging and Boosting Theory
+8) Hyper parameter tuning",
+8/31/2023 12:42:41,Hari Prapan,,level2_107,"Joined 10 mins ago , and he started viva (total 50 mins )
+What is machine learning , its type , example of each. 
+RFE , given a normal distribution , how can we find mean and variance
+T TEST , how to  make particular feature follow normal distribution.
+LIST OF MODELS WHICH CAN WE USED FOR SENTIMENT ANALYSIS
+R2 SCORE.
+ACTIVATION FUNCTION
+LIST OF ACTIVATION FUNCTION with defination.
+NUERAL NETWORK
+CODING QUESTION BASED ON MNIST , PIPELINE , F1 SCORE , TOLD TO NOT USE TRAIN_TEST_SPLIT.
+How can we compare the result given by RFE?
+BAGGING , BOOSTING
+BIAS - VARIANCE TRADEOFF.
+WHAT IS 0-CENTRING?
+Classification report. how DTC works.
+mean and varinace of 5 data points which he gave , asked to calculate mannually.
+Will add more questions..not able to recall.
+
+Level2 107: Consider the MNIST dataset, split it into training and test set in 50:50 ratio with `random_state = 42`. Fit a SVM model using pipeline with StandardScalar, SVM classifier `kernel='poly'` and `degree = 3`,  `decision_function_shape='ovr'`and `class_weight='balanced'`, `C=10`. Train the model on training data, and make predictions for test data. Generate the Classification report and choose the correct value for weighted avg of f1_score.
+oversampling , undersampling. Why activation function is isued in neural network?",
+8/31/2023 20:41:48,Sachin Kumar,,103,"1- Tell me about the hyper parameter tuning? The methods used for it.
+2- My mic has some issues, I will message you here.
+3- Tell about the decision tree algorithms
+4- Difference between underfitting and overfitting
+5- With this we will end the session. Thank you. All the best for your future endeavors.",
+9/1/2023 12:47:37,Praveen,,level2_81,"Introduction and then explain your notebook
+Why you for rivewtext used fillna why not something else, why everyone can't think of something else? I didn't knew the answer.
+What you understood from describe of merge data
+How you drop the duplicates? How you knew which one to drop
+Overfitting, how to improve it?
+Explain ROC 
+Loss function of models
+How pipeline works
+How hypertuning works
+
+Overall my viva was okay only",
+9/4/2023 11:53:33,Ayushi Bulani,,Proctor 81,"-why use fill na and why fill na with empty string?
+-explain roc curve 
+-what is a pipeline?
+-did you remove duplicates?
+-loss function of models ",
+11/27/2023 18:06:24,Milinda,,Level_81,"1 why did I drop certain columns if you have dropped them
+2 what insights did you get while doing the project
+3 what is pipeline
+4 what is standard scaler
+5 difference between bagging and boosting
+6 which is the best working model and why is it better than your other models
+7 what is decision tree
+",
+11/27/2023 20:33:42,Nathania,,level2_71,"Asked questions from the notebook itself nothing outside the notebook.
+Make sure you have some graphs to show during eda.
+Is pickup and drop location Id useful?
+What do you observe in the Target variable(total_amount)?-It is normally distributed(explain with reasoning).
+Explain clearly what you have done, why you did so.
+What models you applied and some specialty or drawbacks of that model compared to other models.
+Need not prepare anything extra other than what you have done.
+
+Feedback given:
+Would be nice if you plotted a graph showing the difference between your y_pred and y_test after each model that you have used.",
+11/28/2023 11:38:50,Jayita,,level2_71,"No questions asked, explain your notebook thoroughly and focus more on your data - it's eda and analysis and you are sorted ",
+11/29/2023 18:47:21,Vishesh,,level2_124,"1. I explained the notebook in great detail in first 15-20 minutes.
+2. He asked how I am encoding the categorical data in payment type. I used label encoder then he asked why not onehot.
+3. He also asked how I am concluding that my models are not overfitting or underfitting.
+4. In the EDA section i had a heatmap for the correlation he asked you can only see the linear dependencies between the feature with correlation what about the non linear dependencies which I missed so he suggested me to try that. He also suggested me to calculate the feature score for the target variable.
+5. He didn't asked me any theory question and didnt asked me to code anything.
+6. Overall viva was great, I had a great conversation with him and viva was over in 30-35 mins.
+PS: He also gave good marks :p",
+11/29/2023 18:58:17,Abhinav Gupta,,Level3_9,"preprocessing steps
+how and why did you fill null values
+asked reasoning behind applying each model
+difference between grid search and randomized search, how each of them works, what have you used and why
+dimensionality reduction, pca, 
+which model gave you highest score: random forest; so explain how this works and why do you think it gave better score than linear regression
+decision tress workings in depth
+assumptions of linear regression
+curse of dimensionality
+explain overfit and underfit via examples; bias, variance, etc.
+(p.s. the proctor will not even flinch in the meeting and will stare you to death, So take caution). ",
+12/7/2023 21:57:11,Shilpa Paul,,106,"It was an overall good viva experience. He first asked to explain the entire notebook. After which, asked some questions on hpt and how much was the observed score improvement.  Then asked some questions on comparison of model train time and score tradeoff. ",
+12/8/2023 11:01:47,SM,,Amit Datt,"viva went well, notebook walkthrough took good amount of time.
+asked why i didnt use box plot, could have used other techniques to remove outliers
+feature engg I did was of good use.
+More visualization definitely helped
+also needs explanation with correlation coefficient between features about why certain features were kept and why certain features were removed
+
+now the difficult part was where I was given data which were sentences(basically non-labelled data), i was asked how would i categorize sentences into groups 
+like first 2 sentences fall into 1 group, rest into other
+this is vectorization technique, we use dot product of vectors",
+12/8/2023 18:36:43,Rohit rawat ,,81,"I was asked very decent questions as following.
+1. About preprocessing part from my notebook
+2. Tricky questions on how one data or one particular column affecting another one and the final Target.
+3. Dependence of a particular column on target.
+4.I stucked at many moments but proctor was to good as he was still listening me and telling my gaps in project.
+
+",
+12/9/2023 10:17:09,Ujjwal V Nath,,Level2_81,"Explain the notebook in detail
+
+have plots to show like scatter, box, histogram plots of target variable visualising the data & the distribution, correlation plot for finding the features correlated & further doing a scatter plot with both to visualise the correlation.
+
+Any transformation of columns like dates to duration, if u have dropped it why drop it why not keep that column, think before dropping a column does it have any useful information like the pickup_datetime could have different times & that could have some influence on target variable prices changing depends on time of the day.
+
+Explain why u applied the imputing u applied.
+
+Explain the models, hyperparameter tuning, why only r2 score why not accuracy, plot accuracy as well for model performance comparison.
+
+How u'll improve the performance of the model - what u did about outliers",
+12/9/2023 20:26:00,Lakshmi Sruthi K,,Level 3_9,"1. What is preprocessing? What are the preprocessing techniques
+2. explain scaling and how it affects model performance
+3. what are categorical and numerical features
+4. how to evaluate model's performance
+5. what is loss function? should the value be large or small
+6. what is dimensionality reduction and what are its uses?
+
+Now he asked me to share my notebook screen and scroll down slowly
+
+7. what is the objective of this mlp project
+Few questions about the graph and stuff
+8. what score are you calculating for the models?
+9. how does xgb work?
+10. how does random forest regressor work? why did it give you the best results.
+
+My viva got over in 20 mins.",
+12/10/2023 15:13:55,Pranshu Jaiswal,,level2_106,"1. Go through the whole notebook
+2. Simple questions like what is imputation and why this particular strategy.
+3. What do you think of outliers in this dataset
+4. Hyperparameter Tuning
+5. How will you explain all this to a non technical person such as your boss",
+12/10/2023 15:20:06,HS,,3_9,"preprocessing
+Eda
+Dim reduction
+Loss function
+Over fitting & under fitting
+Linear regression
+Bagging and boosting
+Scaling techniques
+Pca
+What is my best model, why best and why it's better than linear regression 
+He checked my notebook till just over half way mark and asked to explain a bit here and there from it. 
+Note: Fully prepare all the questions from this sheet. Most of the questions will be same.",
+12/10/2023 16:06:53,👍🏻,,Level2_106,"explain your notebook in detail. if you explain it line by line, questions are less.
+what is lost function in linear regression?
+what is overfitting and underfitting?
+what is scaling?
+imputation and why do we use it?
+hyperparameter tuning time?
+which is your best model? explain about that. Since mine was random forest regressor, I had explained about that, definition and advantages.
+what is cross-validation?",
+12/20/2023 13:24:18,Ns,,L2  106,"Explain the notebook
+Alot of questions related to notebook.
+Correlation explanation wrt cols
+Hpt why and  how 
+Time for best hpt
+Your best model related questions 
+Imputation and pipeline question.
+
+Future scope of this project:
+What all next can be done with this project if I want to improve this model.
+",
+12/25/2023 15:32:56,Ravi Kumawat ,,level2_106,"He asked me show the ID Card first , after checking ID Card & he asked me to show the work I have done , so I explained my notebook in 20 minutes. He didn't asked me any questions.",
+12/26/2023 17:16:04,Terence,,L2_106,"The proctor asked to go through the notebook. Asked questions in between which were quite simple. He seemed nice and understanding also.
+
+The questions asked were:
+1) Can outliers be useful?
+2) Why is imputation important?
+3) Why do we use hyperparameter tuning (HPT)?
+4) Approximate time taken for HPT of each model (if you remember).
+
+As long as you explain the notebook well, it won't be difficult. Overall, viva was around 20 minutes only and marks given were pretty good too.",
+12/27/2023 19:35:58,,,Level2_81,"1) explain the notebook
+2) Did you try improving your score if yess how 
+3) why is preprocessing required
+4) what is hyperparameter tuning,explain with examples
+5) What is logistic Regression
+6) SVM vs Logistic which is better for outliers
+7) Explain Decision Trees
+8) Explain Random Forest
+9) Gave a Dataset and told to do RFE ( Recursive Feature elimination) finding 2 most used Variables.
+",
+12/31/2023 16:49:20,22f1000362,,proctor_081,"Initially asked to explain the entire notebook
+Asked about 
+-what models and explain the models
+-explain one hot encoding
+-hyperparameter tuning
+-how to explain the results of model to business person",
+3/13/2024 12:31:25,Aishwarya,,Level2_Viva106,"1. Go through the entire notebook, the more deeply and thoroughly you explain it, the less no. of questions he'll ask.
+2. Questions on HPT based on what you've done. 
+3. How did you deal with class imbalance, what is SMOTE and how it helps in this kind of situation.
+4. Questions on ROC, PR curve.
+5. Preprocessing techniques, how it improved the accuracy. If not, what might be the reason.
+6. Which model gave the best result and why?",
+3/13/2024 15:13:04,Saarthak,,L2_71,"Run through of the presentation
+What is precision, recall and f1 score
+Overfitting and underfitting
+Reasons for misclassification
+Difference between Random Forest Classifier and Gradient Boost
+How to counter skewedness in data
+A couple of questions on EDA and feature selection
+Why used CountVectorizer instead of TFID",
+3/13/2024 17:11:34,Urjaswi Banerjee,,Level3_1,"Hello I am Urjaswi and I had my mlp viva with level3_1 yesterday from 1:00-2:00 pm.I waited for an hour but he didn’t join the meet.Then when I messaged in the gspace they said he wanted to reschedule it to 8:00pm but at the last moment he cancelled again.it was rescheduled with different examiner and he was really good.He asked basic stuff like explaining the hyper parameter tuning,scaling,why log reg performed well,what was the time it took for hyperparameter tuning,why I didn’t use smote.At last he asked if I had any qs for him.",
+4/11/2024 15:27:58,Abhishek Kr Jha,,2_72,"EXPLAIN NOTEBOOK, How to remove data imbalance , Recall, F1 , Precision , AUC-ROC and Importance of FPR in data imbalance.",
+4/12/2024 11:52:59,Vemparala Ashok,,Level2_81,"1. I was asked to go through the Notebook like L1 viva
+2. How did you correlate the different features and why did you drop columns if you did?
+3. Did you find outliers, if you did how did you deal with them?
+4. Which is your best model and how did you come with the parameters for tuning?
+5. What else do you want to do to improve your modeling further?
+
+Note: Viva with him feels like a discussion rather than an interview, only asks questions based on your notebook. ",
+4/12/2024 12:57:00,Unknown,,level2_103,Pretty much similar to all the questions here. Just answer using examples. ,
+4/12/2024 14:48:14,Amit Pal,,Level2_81,"1.Obviously go through your notebook just like L1 viva.
+2.Correlation of features with target variable.
+3.Why you drop null value/drop column if any
+4.Explain confusion matrix.
+5.how did you handle outliers. 
+6. What else you can do to improve model accuracy.
+7. Question on Hyper parameter 
+Feedback- play more with data preprocessing and finding relationship between features.
+Can try checking the length of reviews impacting ratings.
+Overall it was a good experience proctor was very nice was helping if stucked somewhere.
+viva duration -28 min",
+4/12/2024 19:29:20,Ashirbad Arun Dash,,L3_9,"What is over and under fitting
+What is HTP 
+What are the models
+How you went about the project?
+Explain the few graphs?
+Some basic questions, very generic.
+Very soft spoken and chill person.
+23 mins viva and he was impressed and very understanding.
+Explain all the models like how they work in general sense.
+I used 6 models and how and why i knew about the accuracy and which one is bettter?
+Explain the which case is over or underfitting or highly over or good fit according to your results.
+What type of scaling?
+What was the need of Correlation matrix and what were your insights from it?
+Which scaling does what?
+Do we need HTP?
+Different type of Regression?
+Gave 1 example of a house price then which regression is better to predict the price after certain years
+How does HTP helped you, and how much time it took?
+Why few had HTP and few dont.
+",
+4/13/2024 0:59:36,Gurdeep,,level2_103,"Ok Just finished my level 2 viva:
+1. Obviously go through your notebook and explain the project.
+2. Gave a dataset of 6 features (4 numerical, 1 categorical, 1 target) with some missing values and some '?' values. He asked to select 2 features using RFE and logreg in a new colab notebook. Time: 10 minutes.
+3. Proctor asked questions from my notebook like why you used this model why you used this imputer and scaler like that and working of the models which i have used and also what is the use of this parameters in this model",
+4/13/2024 20:21:58,Shincy Mary Mathew,,Level2_74,Questions were based on the work done in the notebook. Why some features were dropped? Why TFIDF and not Count vectorizer? How many HPT’s done ? Any increase in score after HPT?,
+4/14/2024 16:58:33,Ayush Khatri,,L2_81,"1)Explain each code in the notebook
+2) Strategy for substitution of np.nan values.
+3) I have spotted some outliers, questions were asked on how I found them.
+4)Which model gave me best result and what else I have tried.",
+4/14/2024 21:53:03,Aditya Siddharth Jyoti,,Level_2_72,"This is a very good procter and one cannot pin-point the exact questions. Almost everyone who got this proctor had different set of questions during the viva. The reason is , he don't use any pre-made set of questions. He is at senior position in Ford Motors and have good knowledge , thus he will let you choose the topics where u can answer comfortably. 
+
+For instance while you go through the models during notebook explanation , he will ask you , which is your strongest model out of them , and can you explain any model in detail. 
+
+My sole suggestion is whatever you have written in the notebook should be on your fingertip with all the ins and out of the function / model / paramemters / methods / APIs used . Be honest with him , when you are unable to answer somehting.
+
+Untill now he didn't ask any live coding modeling or pre processing question in colab with his dummy dataset. All he did was , notebook explanation and 6-7 questions .
+
+Here are my questions :-
+
+1. Can you explain Logistic Regression's role in SVM.
+
+2. What is logistic regression ?
+
+3. Among the models you used in your notebook , which model you can explain in complete detail ? (Choose honestly and wisely , he really asks in greater depth , for me it was Random forest or XGB )
+
+(He persumed that i am good in using ensembles and started asking further questions)
+
+4. How does Random Forest works ?
+
+5. What is Bagging method and how it is different from Boosting ?
+
+6. What are the loss functions in Random Forest ?
+
+7. What are the regularization methods for Random Forest ?
+
+8. Could you explain some optimization methods ?
+
+9. If you have 10 DecisionTrees and 5 of them classified an input as 0 and 5 of them classified it as 1 , then what will be the final classification and how ?
+
+10. Do you know any other evaluation metric apart from accuracy ? (I choosed AUC-ROC)
+
+11. Explain me about AUC - ROC .
+
+12. Explain each component of formula involved in AUC-ROC
+
+He gave me a question to solve on pen and paper regarding AUC-ROC , here is the question :-
+
+13. Suppose a data have 2 features F1 and F2 and 5 samples . The target variable of these samples in order are 1 , -1 , 1 , -1 , 1. On using RandomForest Classifier you got the prediction on the same training data to be 1 , 1 , 1 , -1 , 1 . How you will plot the AUC - ROC plot for this data ?
+
+14. Suppose you have multi class insteaed of binary class , can you plot the AUC-ROC curve in a single plot ? If yes how ? 
+
+The proctor is very nice , make sure that you are honest with proctor . You can politely cross question him to understand the question properly. If you don't know something , just tell that honestly . If you try to guess the answer , he quickly detects that you are trying to guess.",
+4/20/2024 15:55:19,Owais ,,Level2_106,"1) What is the difference between seaborn and matplotlib libraries?
+2) Why didn't you use Hyperparameter tuning? ( I used this but removed the code as it kept running on my Kaggle notebook and instead did it on colab)
+3) After HPT did you get any improvement in your score?
+
+Overall the examiner is a very nice guy, you've to make sure you speak atleast for 20 mins. He should basically understand that you know ML very well in which case he won't ask you a lot of questions. ",
+4/20/2024 23:14:33,bindu,,level_2_71,"just asked for explaining  my project and asked applied imbalance or not 
+Classification report and confusion matrix explanation 
+Difference decision tree and extra tree classifier 
+my viva got over in 35 min where i had explained my project for 30mins ",
+4/21/2024 12:21:14,Ananya,,Level2_106,"1. Why didnt you submit earlier
+2. What is your baseline model
+3. What did you do for hpt",
+4/21/2024 18:53:27,Abhijit Kundu,,Level2_107,"1)Introduce yourself.
+2)Explain to the notebook what have you done? When explaining he asked about how you understand the confusion matrix.
+3) Have you applied the feature selection technique? Name some of the feature selection techniques.
+4) How PCA works?
+5) How do you quantify the performance of a feature selection technique?
+6)What is under sampling and over sampling? By looking at the dataset how do you know it is under-sampled or over-sampled? How do you handle under-sampling and over-sampling?
+7) How many models have you tried? (Done almost all the models. He said, ""OK you have tried all the models, but let's say some of the models are running for a very long time say 1 month in that case how do you choose your model?"" Something like that, not able to understand the question properly. When I asked him to repeat the question he went to the next question. I think the answer would be by seeing the dataset we have chosen which model to apply but I am not sure.)
+8)What are the conditions for Logistic regressions to apply? Can you apply Logistic Regression when the data have outliers and why?
+9)In Gradient descent the step size eta how do you choose and what is the impact if you choose too high and too low? Will 0.5 be a good choice? Will changing the eta on every iteration be a good strategy?
+10)Suppose you trained three are four models they all give an accuracy of around 0.9. In that case, how do you test which one is the most optimal model out of those?
+11)What is the R2 score?
+12)What is Neural networks?
+13)Given a coding question: Apply the tf- idf vectorizer on the following and find out the Tf and IDF of each term. 
+lines= [a c c c c a b]
+           [a a a a c d f e b d d]
+           [b b b b d a a c f r]
+Consider each letter a word.
+14)Another coding question: ""Consider the MNIST dataset, split it into training and test set in 50:50 ratio with random_state = 42. Fit a SVM model using pipeline with StandardScalar, SVM classifier kernel='poly' and degree = 3, decision_function_shape='ovr' and class_weight='balanced', C=10. Train the model on training data, and make predictions for test data. Generate the Classification report and choose the correct value for weighted avg of f1_score."" As I have taken much time doing the previous codingquestion he said instead of mnist use load_digits dataset from sklearn.datasets library and do the same. Given only 10 minutes.
+14)How precision score and recall score is calculated? What is f1-score?
+Viva went for almost one hour. It was average. Fells like he was not completely satisfied after answering the questions except the coding questions.",
+4/22/2024 15:11:58,Laxmi Priya Kasi ,,Level2_103,Same questions as mentioned in the sheet. Try to be thorough with your notebook - Theory & Coding part. ,
+4/23/2024 0:24:22,sachi,,level2_74_MLP_Viva,"Be very very thorough with the eda part. Why you have plotted the graphs, what does that show etc . 
+Proctor took almost 30 mins only for the histograms/boxplot/correlation heatmap. 
+Skimmed through the rest of my notebook.
+Asked about working of tfidf, logistic regression, why accuracy is bad score for this particular dataset.
+Asked about how truncated svd works.
+Asked about working of stack classifier.
+You should know about every word in your notebook.
+Overall he was nice, just be very sure of why you have done the steps in your notebook and exactly what that means. ",
+4/24/2024 22:28:46,Sarthak,,level2_106,"Explain the whole notebook in detail, he'll ask the questions in between based on what you have done. 
+What preprocessing did you perform?
+How did you handle class imbalance?
+other general questions, not very difficult",
+4/25/2024 17:00:47,Nayana S S,,Level3_9,"What is the objective of project.
+What is correlation
+what is HPT
+what is confusion matrix( also asked what is the confusion in the confusion matrix)
+what is underfitting and overfitting
+Told to explain my Project and asked why my best model worked better than other models
+Gave me a house cost prediction example and asked which model suits for this.
+what is dimensionality reduction
+what is loss function and how a loss function should be for a good model
+What is scaling and why it is done
+what is preprocessing and some techniques of preprocessing
+Very nice person. Finished viva in 20 minutes. Understanding and learning concepts present in our notebook is only needed for clearing the viva. We must know what and why we have done any method in our notebook. 
+",
+4/30/2024 12:42:35,Amit kumar,,level_2_74,"The main focus on the EDA PART. He will ask about the his own  EDA idea .and graph.like recipe name verse rating , mention the how numerical features are related with rating..",
