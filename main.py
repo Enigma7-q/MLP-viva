@@ -7,7 +7,7 @@ from openai import OpenAI
 
 # --- Configuration ---
 # Get your free key from https://openrouter.ai/keys
-OPENROUTER_API_KEY = OPENROUTER_API_KEY
+OPENROUTER_API_KEY = st.secrets["OPENROUTER_API_KEY"]
 CACHE_FILE = "proctor_summaries.json"
 
 # Initialize the OpenRouter client using the OpenAI SDK
